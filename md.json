@@ -1,0 +1,33 @@
+{
+    "name": "gba-host",
+    "consoles": [
+        {
+            "name": "GB-ALT",
+            "folder": "gb-alt"
+        },
+        {
+            "name": "GBA-ALT",
+            "folder": "gba-alt"
+        },
+        {
+            "name": "GBC-ALT",
+            "folder": "gbc-alt"
+        },
+        {
+            "name": "GHPAGES_FILES",
+            "folder": "ghpages_files"
+        },
+        {
+            "name": "NES-ALT",
+            "folder": "nes-alt"
+        },
+        {
+            "name": "SEGAMD-ALT",
+            "folder": "segaMD-alt"
+        },
+        {
+            "name": "SNES-ALT",
+            "folder": "snes-alt"
+        }
+    ]
+}

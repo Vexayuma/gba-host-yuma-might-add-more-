@@ -1,0 +1,2028 @@
+{
+    "games": [
+        {
+            "title": "10-pin Bowling (usa)",
+            "file": "10-Pin_Bowling_(USA).7z"
+        },
+        {
+            "title": "2097 Rom Pack Ii (usa) (test Program)",
+            "file": "2097_ROM_Pack_II_(USA)_(Test_Program).7z"
+        },
+        {
+            "title": "2420 Rom Pack V (usa) (test Program)",
+            "file": "2420_ROM_Pack_V_(USA)_(Test_Program).7z"
+        },
+        {
+            "title": "2440 Rom Pack (usa) (test Program)",
+            "file": "2440_ROM_Pack_(USA)_(Test_Program).7z"
+        },
+        {
+            "title": "4-in-1 Funpak - Volume Ii (usa Europe)",
+            "file": "4-in-1_Funpak_-_Volume_II_(USA_Europe).7z"
+        },
+        {
+            "title": "4-in-1 Fun Pak (usa Europe)",
+            "file": "4-in-1_Fun_Pak_(USA_Europe).7z"
+        },
+        {
+            "title": "A-mazing Tater (usa)",
+            "file": "A-mazing_Tater_(USA).7z"
+        },
+        {
+            "title": "Addams Family The (usa)",
+            "file": "Addams_Family_The_(USA).7z"
+        },
+        {
+            "title": "Addams Family The - Pugsleys Scavenger Hunt (usa Europe)",
+            "file": "Addams_Family_The_-_Pugsleys_Scavenger_Hunt_(USA_Europe).7z"
+        },
+        {
+            "title": "Adventures Of Rocky And Bullwinkle And Friends The (usa)",
+            "file": "Adventures_of_Rocky_and_Bullwinkle_and_Friends_The_(USA).7z"
+        },
+        {
+            "title": "Adventures Of Star Saver The (usa Europe)",
+            "file": "Adventures_of_Star_Saver_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Adventure Island (usa Europe)",
+            "file": "Adventure_Island_(USA_Europe).7z"
+        },
+        {
+            "title": "Adventure Island Ii - Aliens In Paradise (usa Europe)",
+            "file": "Adventure_Island_II_-_Aliens_in_Paradise_(USA_Europe).7z"
+        },
+        {
+            "title": "Aerostar (usa Europe)",
+            "file": "Aerostar_(USA_Europe).7z"
+        },
+        {
+            "title": "Aladdin (usa) (sgb Enhanced)",
+            "file": "Aladdin_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Alfred Chicken (usa)",
+            "file": "Alfred_Chicken_(USA).7z"
+        },
+        {
+            "title": "Alien 3 (usa Europe)",
+            "file": "Alien_3_(USA_Europe).7z"
+        },
+        {
+            "title": "Alien Vs Predator - The Last Of His Clan (usa)",
+            "file": "Alien_vs_Predator_-_The_Last_of_His_Clan_(USA).7z"
+        },
+        {
+            "title": "All-star Baseball 99 (usa)",
+            "file": "All-Star_Baseball_99_(USA).7z"
+        },
+        {
+            "title": "Altered Space - A 3-d Alien Adventure (usa)",
+            "file": "Altered_Space_-_A_3-D_Alien_Adventure_(USA).7z"
+        },
+        {
+            "title": "Amazing Penguin (usa Europe)",
+            "file": "Amazing_Penguin_(USA_Europe).7z"
+        },
+        {
+            "title": "Amazing Spider-man The (usa Europe)",
+            "file": "Amazing_Spider-Man_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Animaniacs (usa) (sgb Enhanced)",
+            "file": "Animaniacs_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Arcade Classics - Super Breakout & Battlezone (usa Europe) (sgb Enhanced)",
+            "file": "Arcade_Classics_-_Super_Breakout_&_Battlezone_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Arcade Classic No. 1 - Asteroids & Missile Command (usa Europe) (sgb Enhanced)",
+            "file": "Arcade_Classic_No._1_-_Asteroids_&_Missile_Command_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Arcade Classic No. 2 - Centipede & Millipede (usa Europe) (sgb Enhanced)",
+            "file": "Arcade_Classic_No._2_-_Centipede_&_Millipede_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Arcade Classic No. 3 - Galaga & Galaxian (usa) (sgb Enhanced)",
+            "file": "Arcade_Classic_No._3_-_Galaga_&_Galaxian_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Arcade Classic No. 4 - Defender & Joust (usa Europe) (sgb Enhanced)",
+            "file": "Arcade_Classic_No._4_-_Defender_&_Joust_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Asteroids (usa Europe)",
+            "file": "Asteroids_(USA_Europe).7z"
+        },
+        {
+            "title": "Atomic Punk (usa)",
+            "file": "Atomic_Punk_(USA).7z"
+        },
+        {
+            "title": "Attack Of The Killer Tomatoes (usa Europe)",
+            "file": "Attack_of_the_Killer_Tomatoes_(USA_Europe).7z"
+        },
+        {
+            "title": "Avenging Spirit (usa Europe)",
+            "file": "Avenging_Spirit_(USA_Europe).7z"
+        },
+        {
+            "title": "Balloon Kid (usa Europe)",
+            "file": "Balloon_Kid_(USA_Europe).7z"
+        },
+        {
+            "title": "Barbie - Game Girl (usa Europe)",
+            "file": "Barbie_-_Game_Girl_(USA_Europe).7z"
+        },
+        {
+            "title": "Bart Simpsons Escape From Camp Deadly (usa Europe)",
+            "file": "Bart_Simpsons_Escape_from_Camp_Deadly_(USA_Europe).7z"
+        },
+        {
+            "title": "Bases Loaded (usa)",
+            "file": "Bases_Loaded_(USA).7z"
+        },
+        {
+            "title": "Batman - Return Of The Joker (usa Europe)",
+            "file": "Batman_-_Return_of_the_Joker_(USA_Europe).7z"
+        },
+        {
+            "title": "Batman - The Animated Series (usa Europe)",
+            "file": "Batman_-_The_Animated_Series_(USA_Europe).7z"
+        },
+        {
+            "title": "Battleship (usa Europe)",
+            "file": "Battleship_(USA_Europe).7z"
+        },
+        {
+            "title": "Battletoads-double Dragon (usa)",
+            "file": "Battletoads-Double_Dragon_(USA).7z"
+        },
+        {
+            "title": "Battletoads (usa Europe)",
+            "file": "Battletoads_(USA_Europe).7z"
+        },
+        {
+            "title": "Battletoads In Ragnaroks World (usa)",
+            "file": "Battletoads_in_Ragnaroks_World_(USA).7z"
+        },
+        {
+            "title": "Battle Arena Toshinden (usa) (sgb Enhanced)",
+            "file": "Battle_Arena_Toshinden_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Battle Bull (usa)",
+            "file": "Battle_Bull_(USA).7z"
+        },
+        {
+            "title": "Battle Unit Zeoth (usa Europe)",
+            "file": "Battle_Unit_Zeoth_(USA_Europe).7z"
+        },
+        {
+            "title": "Beavis And Butt-head (usa Europe)",
+            "file": "Beavis_and_Butt-head_(USA_Europe).7z"
+        },
+        {
+            "title": "Beetlejuice (usa)",
+            "file": "Beetlejuice_(USA).7z"
+        },
+        {
+            "title": "Best Of The Best - Championship Karate (usa)",
+            "file": "Best_of_the_Best_-_Championship_Karate_(USA).7z"
+        },
+        {
+            "title": "Bill & Teds Excellent Game Boy Adventure - A Bogus Journey! (usa Europe)",
+            "file": "Bill_&_Teds_Excellent_Game_Boy_Adventure_-_A_Bogus_Journey!_(USA_Europe).7z"
+        },
+        {
+            "title": "Bill Elliotts Nascar Fast Tracks (usa)",
+            "file": "Bill_Elliotts_NASCAR_Fast_Tracks_(USA).7z"
+        },
+        {
+            "title": "Bionic Battler (usa)",
+            "file": "Bionic_Battler_(USA).7z"
+        },
+        {
+            "title": "Bionic Commando (usa)",
+            "file": "Bionic_Commando_(USA).7z"
+        },
+        {
+            "title": "Black Bass - Lure Fishing (usa)",
+            "file": "Black_Bass_-_Lure_Fishing_(USA).7z"
+        },
+        {
+            "title": "Blades Of Steel (usa)",
+            "file": "Blades_of_Steel_(USA).7z"
+        },
+        {
+            "title": "Blaster Master Boy (usa)",
+            "file": "Blaster_Master_Boy_(USA).7z"
+        },
+        {
+            "title": "Blues Brothers The (usa Europe)",
+            "file": "Blues_Brothers_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Boggle Plus (usa)",
+            "file": "Boggle_Plus_(USA).7z"
+        },
+        {
+            "title": "Bomberman Gb (usa Europe) (sgb Enhanced)",
+            "file": "Bomberman_GB_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Bonks Adventure (usa)",
+            "file": "Bonks_Adventure_(USA).7z"
+        },
+        {
+            "title": "Boomers Adventure In Asmik World (usa)",
+            "file": "Boomers_Adventure_in_ASMIK_World_(USA).7z"
+        },
+        {
+            "title": "Boxxle (usa)",
+            "file": "Boxxle_(USA).7z"
+        },
+        {
+            "title": "Boxxle Ii (usa Europe)",
+            "file": "Boxxle_II_(USA_Europe).7z"
+        },
+        {
+            "title": "Bo Jackson - Two Games In One (usa)",
+            "file": "Bo_Jackson_-_Two_Games_in_One_(USA).7z"
+        },
+        {
+            "title": "Brain Bender (usa)",
+            "file": "Brain_Bender_(USA).7z"
+        },
+        {
+            "title": "Brain Drain (usa) (sgb Enhanced)",
+            "file": "Brain_Drain_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Bram Stokers Dracula (usa Europe)",
+            "file": "Bram_Stokers_Dracula_(USA_Europe).7z"
+        },
+        {
+            "title": "Breakthru! (usa)",
+            "file": "BreakThru!_(USA).7z"
+        },
+        {
+            "title": "Bubble Bobble (usa Europe)",
+            "file": "Bubble_Bobble_(USA_Europe).7z"
+        },
+        {
+            "title": "Bubble Bobble Part 2 (usa Europe)",
+            "file": "Bubble_Bobble_Part_2_(USA_Europe).7z"
+        },
+        {
+            "title": "Bubble Ghost (usa Europe)",
+            "file": "Bubble_Ghost_(USA_Europe).7z"
+        },
+        {
+            "title": "Bubsy Ii (usa)",
+            "file": "Bubsy_II_(USA).7z"
+        },
+        {
+            "title": "Bugs Bunny Crazy Castle 2 The (usa)",
+            "file": "Bugs_Bunny_Crazy_Castle_2_The_(USA).7z"
+        },
+        {
+            "title": "Bugs Bunny Crazy Castle The (usa Europe)",
+            "file": "Bugs_Bunny_Crazy_Castle_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Burai Fighter Deluxe (usa Europe)",
+            "file": "Burai_Fighter_Deluxe_(USA_Europe).7z"
+        },
+        {
+            "title": "Bust-a-move 2 - Arcade Edition (usa Europe)",
+            "file": "Bust-A-Move_2_-_Arcade_Edition_(USA_Europe).7z"
+        },
+        {
+            "title": "Buster Bros. (usa)",
+            "file": "Buster_Bros._(USA).7z"
+        },
+        {
+            "title": "Caesars Palace (usa)",
+            "file": "Caesars_Palace_(USA).7z"
+        },
+        {
+            "title": "Captain America And The Avengers (usa)",
+            "file": "Captain_America_and_the_Avengers_(USA).7z"
+        },
+        {
+            "title": "Casino Funpak (usa Europe)",
+            "file": "Casino_FunPak_(USA_Europe).7z"
+        },
+        {
+            "title": "Casper (usa)",
+            "file": "Casper_(USA).7z"
+        },
+        {
+            "title": "Castelian (usa)",
+            "file": "Castelian_(USA).7z"
+        },
+        {
+            "title": "Castlevania - The Adventure (usa)",
+            "file": "Castlevania_-_The_Adventure_(USA).7z"
+        },
+        {
+            "title": "Castlevania - The Adventure (usa) (castlevania Anniversary Collection)",
+            "file": "Castlevania_-_The_Adventure_(USA)_(Castlevania_Anniversary_Collection).7z"
+        },
+        {
+            "title": "Castlevania Legends (usa Europe) (sgb Enhanced)",
+            "file": "Castlevania_Legends_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Catrap (usa)",
+            "file": "Catrap_(USA).7z"
+        },
+        {
+            "title": "Centipede (usa) (majesco)",
+            "file": "Centipede_(USA)_(Majesco).7z"
+        },
+        {
+            "title": "Centipede (usa Europe) (accolade)",
+            "file": "Centipede_(USA_Europe)_(Accolade).7z"
+        },
+        {
+            "title": "Championship Pool (usa)",
+            "file": "Championship_Pool_(USA).7z"
+        },
+        {
+            "title": "Chase H.q. (usa Europe)",
+            "file": "Chase_H.Q._(USA_Europe).7z"
+        },
+        {
+            "title": "Chessmaster The (usa Europe)",
+            "file": "Chessmaster_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Choplifter Ii - Rescue & Survive (usa)",
+            "file": "Choplifter_II_-_Rescue_&_Survive_(USA).7z"
+        },
+        {
+            "title": "Chuck Rock (usa Europe)",
+            "file": "Chuck_Rock_(USA_Europe).7z"
+        },
+        {
+            "title": "Cliffhanger (usa Europe)",
+            "file": "Cliffhanger_(USA_Europe).7z"
+        },
+        {
+            "title": "College Slam (usa)",
+            "file": "College_Slam_(USA).7z"
+        },
+        {
+            "title": "Contra - The Alien Wars (usa) (sgb Enhanced)",
+            "file": "Contra_-_The_Alien_Wars_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Cool Ball (usa)",
+            "file": "Cool_Ball_(USA).7z"
+        },
+        {
+            "title": "Cool Spot (usa)",
+            "file": "Cool_Spot_(USA).7z"
+        },
+        {
+            "title": "Cool World (usa Europe)",
+            "file": "Cool_World_(USA_Europe).7z"
+        },
+        {
+            "title": "Cosmo Tank (usa)",
+            "file": "Cosmo_Tank_(USA).7z"
+        },
+        {
+            "title": "Crystal Quest (usa)",
+            "file": "Crystal_Quest_(USA).7z"
+        },
+        {
+            "title": "Cutthroat Island (usa Europe)",
+            "file": "CutThroat_Island_(USA_Europe).7z"
+        },
+        {
+            "title": "Cyraid (usa)",
+            "file": "Cyraid_(USA).7z"
+        },
+        {
+            "title": "Daedalian Opus (usa)",
+            "file": "Daedalian_Opus_(USA).7z"
+        },
+        {
+            "title": "Daffy Duck (usa Europe) (sgb Enhanced)",
+            "file": "Daffy_Duck_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Darkman (usa Europe)",
+            "file": "Darkman_(USA_Europe).7z"
+        },
+        {
+            "title": "Darkwing Duck (usa)",
+            "file": "Darkwing_Duck_(USA).7z"
+        },
+        {
+            "title": "David Cranes The Rescue Of Princess Blobette (usa)",
+            "file": "David_Cranes_The_Rescue_of_Princess_Blobette_(USA).7z"
+        },
+        {
+            "title": "Days Of Thunder (usa Europe)",
+            "file": "Days_of_Thunder_(USA_Europe).7z"
+        },
+        {
+            "title": "Dead Heat Scramble (usa)",
+            "file": "Dead_Heat_Scramble_(USA).7z"
+        },
+        {
+            "title": "Dennis The Menace (usa)",
+            "file": "Dennis_the_Menace_(USA).7z"
+        },
+        {
+            "title": "Desert Strike - Return To The Gulf (usa) (sgb Enhanced)",
+            "file": "Desert_Strike_-_Return_to_the_Gulf_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Dexterity (usa Europe)",
+            "file": "Dexterity_(USA_Europe).7z"
+        },
+        {
+            "title": "Dick Tracy (usa)",
+            "file": "Dick_Tracy_(USA).7z"
+        },
+        {
+            "title": "Dig Dug (usa)",
+            "file": "Dig_Dug_(USA).7z"
+        },
+        {
+            "title": "Donkey Kong (japan Usa) (en) (sgb Enhanced)",
+            "file": "Donkey_Kong_(Japan_USA)_(En)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Donkey Kong Land (usa Europe) (sgb Enhanced)",
+            "file": "Donkey_Kong_Land_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Donkey Kong Land 2 (usa Europe) (sgb Enhanced)",
+            "file": "Donkey_Kong_Land_2_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Donkey Kong Land Iii (usa Europe) (sgb Enhanced)",
+            "file": "Donkey_Kong_Land_III_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Double Dragon (usa Europe)",
+            "file": "Double_Dragon_(USA_Europe).7z"
+        },
+        {
+            "title": "Double Dragon 3 - The Arcade Game (usa Europe)",
+            "file": "Double_Dragon_3_-_The_Arcade_Game_(USA_Europe).7z"
+        },
+        {
+            "title": "Double Dragon Ii (usa Europe)",
+            "file": "Double_Dragon_II_(USA_Europe).7z"
+        },
+        {
+            "title": "Double Dribble - 5 On 5 (usa)",
+            "file": "Double_Dribble_-_5_on_5_(USA).7z"
+        },
+        {
+            "title": "Dr. Franken (usa)",
+            "file": "Dr._Franken_(USA).7z"
+        },
+        {
+            "title": "Dr. Franken Ii (usa Europe) (enfrdeesitnlsv)",
+            "file": "Dr._Franken_II_(USA_Europe)_(EnFrDeEsItNlSv).7z"
+        },
+        {
+            "title": "Dragonheart (usa Europe)",
+            "file": "DragonHeart_(USA_Europe).7z"
+        },
+        {
+            "title": "Dragons Lair - The Legend (usa)",
+            "file": "Dragons_Lair_-_The_Legend_(USA).7z"
+        },
+        {
+            "title": "Dragon Ball Z 3 (usa) (sgb Enhanced) (unl)",
+            "file": "Dragon_Ball_Z_3_(USA)_(SGB_Enhanced)_(Unl).7z"
+        },
+        {
+            "title": "Ducktales (usa)",
+            "file": "DuckTales_(USA).7z"
+        },
+        {
+            "title": "Ducktales 2 (usa)",
+            "file": "DuckTales_2_(USA).7z"
+        },
+        {
+            "title": "Earthworm Jim (usa)",
+            "file": "Earthworm_Jim_(USA).7z"
+        },
+        {
+            "title": "Elevator Action (usa Europe)",
+            "file": "Elevator_Action_(USA_Europe).7z"
+        },
+        {
+            "title": "Elite Soccer (usa) (sgb Enhanced)",
+            "file": "Elite_Soccer_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Exodus - Journey To The Promised Land (usa) (unl)",
+            "file": "Exodus_-_Journey_to_the_Promised_Land_(USA)_(Unl).7z"
+        },
+        {
+            "title": "Extra Bases (usa)",
+            "file": "Extra_Bases_(USA).7z"
+        },
+        {
+            "title": "F-15 Strike Eagle (usa Europe)",
+            "file": "F-15_Strike_Eagle_(USA_Europe).7z"
+        },
+        {
+            "title": "F1 Pole Position (usa Europe)",
+            "file": "F1_Pole_Position_(USA_Europe).7z"
+        },
+        {
+            "title": "Faceball 2000 (usa)",
+            "file": "Faceball_2000_(USA).7z"
+        },
+        {
+            "title": "Fastest Lap (usa)",
+            "file": "Fastest_Lap_(USA).7z"
+        },
+        {
+            "title": "Felix The Cat (usa Europe)",
+            "file": "Felix_the_Cat_(USA_Europe).7z"
+        },
+        {
+            "title": "Ferrari Grand Prix Challenge (usa Europe)",
+            "file": "Ferrari_Grand_Prix_Challenge_(USA_Europe).7z"
+        },
+        {
+            "title": "Fidgetts The (usa Europe) (enfrdeesitnlsv)",
+            "file": "Fidgetts_The_(USA_Europe)_(EnFrDeEsItNlSv).7z"
+        },
+        {
+            "title": "Fifa International Soccer (usa Europe) (enfrdees) (sgb Enhanced)",
+            "file": "FIFA_International_Soccer_(USA_Europe)_(EnFrDeEs)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Fifa Soccer 96 (usa Europe) (enfrdees) (sgb Enhanced)",
+            "file": "FIFA_Soccer_96_(USA_Europe)_(EnFrDeEs)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Fifa Soccer 97 (usa Europe) (sgb Enhanced)",
+            "file": "FIFA_Soccer_97_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Fighting Simulator 2 In 1 - Flying Warriors (usa Europe)",
+            "file": "Fighting_Simulator_2_in_1_-_Flying_Warriors_(USA_Europe).7z"
+        },
+        {
+            "title": "Final Fantasy Adventure (usa)",
+            "file": "Final_Fantasy_Adventure_(USA).7z"
+        },
+        {
+            "title": "Final Fantasy Legend Iii (usa)",
+            "file": "Final_Fantasy_Legend_III_(USA).7z"
+        },
+        {
+            "title": "Final Fantasy Legend Ii (usa)",
+            "file": "Final_Fantasy_Legend_II_(USA).7z"
+        },
+        {
+            "title": "Final Fantasy Legend The (usa)",
+            "file": "Final_Fantasy_Legend_The_(USA).7z"
+        },
+        {
+            "title": "Fish Dude (usa)",
+            "file": "Fish_Dude_(USA).7z"
+        },
+        {
+            "title": "Fist Of The North Star (usa)",
+            "file": "Fist_of_the_North_Star_(USA).7z"
+        },
+        {
+            "title": "Flash The (usa Europe)",
+            "file": "Flash_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Flintstones The (usa Europe)",
+            "file": "Flintstones_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Flintstones The - King Rock Treasure Island (usa Europe)",
+            "file": "Flintstones_The_-_King_Rock_Treasure_Island_(USA_Europe).7z"
+        },
+        {
+            "title": "Flipull (usa)",
+            "file": "Flipull_(USA).7z"
+        },
+        {
+            "title": "Foreman For Real (usa Europe)",
+            "file": "Foreman_for_Real_(USA_Europe).7z"
+        },
+        {
+            "title": "Fortified Zone (usa Europe)",
+            "file": "Fortified_Zone_(USA_Europe).7z"
+        },
+        {
+            "title": "Frank Thomas Big Hurt Baseball (usa Europe)",
+            "file": "Frank_Thomas_Big_Hurt_Baseball_(USA_Europe).7z"
+        },
+        {
+            "title": "Frogger (usa)",
+            "file": "Frogger_(USA).7z"
+        },
+        {
+            "title": "Gameshark (usa) (unl)",
+            "file": "GameShark_(USA)_(Unl).7z"
+        },
+        {
+            "title": "Game & Watch Gallery (usa) (sgb Enhanced)",
+            "file": "Game_&_Watch_Gallery_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Game Boy Camera (usa Europe) (sgb Enhanced)",
+            "file": "Game_Boy_Camera_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Game Boy Camera Gold (usa) (sgb Enhanced)",
+            "file": "Game_Boy_Camera_Gold_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Game Genie (usa) (v2.1) (unl)",
+            "file": "Game_Genie_(USA)_(v2.1)_(Unl).7z"
+        },
+        {
+            "title": "Game Of Harmony The (usa)",
+            "file": "Game_of_Harmony_The_(USA).7z"
+        },
+        {
+            "title": "Gargoyles Quest (usa Europe)",
+            "file": "Gargoyles_Quest_(USA_Europe).7z"
+        },
+        {
+            "title": "Gauntlet Ii (usa Europe)",
+            "file": "Gauntlet_II_(USA_Europe).7z"
+        },
+        {
+            "title": "Gear Works (usa Europe)",
+            "file": "Gear_Works_(USA_Europe).7z"
+        },
+        {
+            "title": "George Foremans Ko Boxing (usa Europe)",
+            "file": "George_Foremans_KO_Boxing_(USA_Europe).7z"
+        },
+        {
+            "title": "Getaway The - High Speed Ii (usa)",
+            "file": "Getaway_The_-_High_Speed_II_(USA).7z"
+        },
+        {
+            "title": "Ghostbusters Ii (usa Europe)",
+            "file": "Ghostbusters_II_(USA_Europe).7z"
+        },
+        {
+            "title": "Go! Go! Tank (usa)",
+            "file": "Go!_Go!_Tank_(USA).7z"
+        },
+        {
+            "title": "Goal! (usa)",
+            "file": "Goal!_(USA).7z"
+        },
+        {
+            "title": "Godzilla (usa Europe)",
+            "file": "Godzilla_(USA_Europe).7z"
+        },
+        {
+            "title": "Gradius - The Interstellar Assault (usa)",
+            "file": "Gradius_-_The_Interstellar_Assault_(USA).7z"
+        },
+        {
+            "title": "Grander Musashi Rv (japan) (sgb Enhanced)",
+            "file": "Grander_Musashi_RV_(Japan)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Great Greed (usa)",
+            "file": "Great_Greed_(USA).7z"
+        },
+        {
+            "title": "Gunship (usa) (aftermarket) (homebrew)",
+            "file": "Gunship_(USA)_(Aftermarket)_(Homebrew).7z"
+        },
+        {
+            "title": "Hal Wrestling (usa)",
+            "file": "HAL_Wrestling_(USA).7z"
+        },
+        {
+            "title": "Harvest Moon Gb (usa) (sgb Enhanced)",
+            "file": "Harvest_Moon_GB_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Hatris (japan Usa) (en)",
+            "file": "Hatris_(Japan_USA)_(En).7z"
+        },
+        {
+            "title": "Heavyweight Championship Boxing (usa)",
+            "file": "Heavyweight_Championship_Boxing_(USA).7z"
+        },
+        {
+            "title": "Heiankyo Alien (usa)",
+            "file": "Heiankyo_Alien_(USA).7z"
+        },
+        {
+            "title": "Hercules (usa Europe) (sgb Enhanced)",
+            "file": "Hercules_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "High Stakes Gambling (usa)",
+            "file": "High_Stakes_Gambling_(USA).7z"
+        },
+        {
+            "title": "Hit The Ice - Vhl - The Official Video Hockey League (usa Europe)",
+            "file": "Hit_the_Ice_-_VHL_-_The_Official_Video_Hockey_League_(USA_Europe).7z"
+        },
+        {
+            "title": "Home Alone (usa Europe)",
+            "file": "Home_Alone_(USA_Europe).7z"
+        },
+        {
+            "title": "Home Alone 2 - Lost In New York (usa Europe)",
+            "file": "Home_Alone_2_-_Lost_in_New_York_(USA_Europe).7z"
+        },
+        {
+            "title": "Hook (usa)",
+            "file": "Hook_(USA).7z"
+        },
+        {
+            "title": "Hudson Hawk (usa)",
+            "file": "Hudson_Hawk_(USA).7z"
+        },
+        {
+            "title": "Humans The (usa)",
+            "file": "Humans_The_(USA).7z"
+        },
+        {
+            "title": "Hunchback Of Notre Dame The - 5 Foolishly Fun Topsy Turvy Games (usa Europe) (sgb Enhanced)",
+            "file": "Hunchback_of_Notre_Dame_The_-_5_Foolishly_Fun_Topsy_Turvy_Games_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Hunt For Red October The (usa Europe)",
+            "file": "Hunt_for_Red_October_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Ikari No Yousai (japan)",
+            "file": "Ikari_no_Yousai_(Japan).7z"
+        },
+        {
+            "title": "Ikari No Yousai 2 (japan)",
+            "file": "Ikari_no_Yousai_2_(Japan).7z"
+        },
+        {
+            "title": "Incredible Crash Dummies The (usa Europe)",
+            "file": "Incredible_Crash_Dummies_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Indiana Jones And The Last Crusade (usa Europe)",
+            "file": "Indiana_Jones_and_the_Last_Crusade_(USA_Europe).7z"
+        },
+        {
+            "title": "Infogenius Productivity Pak - Berlitz French Translator (usa Europe)",
+            "file": "InfoGenius_Productivity_Pak_-_Berlitz_French_Translator_(USA_Europe).7z"
+        },
+        {
+            "title": "Infogenius Productivity Pak - Berlitz Spanish Translator (usa Europe)",
+            "file": "InfoGenius_Productivity_Pak_-_Berlitz_Spanish_Translator_(USA_Europe).7z"
+        },
+        {
+            "title": "Infogenius Productivity Pak - Frommers Travel Guide (usa)",
+            "file": "InfoGenius_Productivity_Pak_-_Frommers_Travel_Guide_(USA).7z"
+        },
+        {
+            "title": "Infogenius Productivity Pak - Personal Organizer And Phone Book (usa)",
+            "file": "InfoGenius_Productivity_Pak_-_Personal_Organizer_and_Phone_Book_(USA).7z"
+        },
+        {
+            "title": "Infogenius Productivity Pak - Spell Checker And Calculator (usa)",
+            "file": "InfoGenius_Productivity_Pak_-_Spell_Checker_and_Calculator_(USA).7z"
+        },
+        {
+            "title": "International Superstar Soccer (usa Europe) (sgb Enhanced)",
+            "file": "International_Superstar_Soccer_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "In Your Face (usa)",
+            "file": "In_Your_Face_(USA).7z"
+        },
+        {
+            "title": "Iron Man X-o Manowar In Heavy Metal (usa Europe) (sgb Enhanced)",
+            "file": "Iron_Man_X-O_Manowar_in_Heavy_Metal_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Ishido - The Way Of Stones (usa)",
+            "file": "Ishido_-_The_Way_of_Stones_(USA).7z"
+        },
+        {
+            "title": "Jack Nicklaus Golf (usa Europe)",
+            "file": "Jack_Nicklaus_Golf_(USA_Europe).7z"
+        },
+        {
+            "title": "James Bond 007 (usa Europe) (sgb Enhanced)",
+            "file": "James_Bond_007_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Jeep Jamboree - Off-road Adventure (usa)",
+            "file": "Jeep_Jamboree_-_Off-Road_Adventure_(USA).7z"
+        },
+        {
+            "title": "Jeopardy! (usa)",
+            "file": "Jeopardy!_(USA).7z"
+        },
+        {
+            "title": "Jeopardy! - Platinum Edition (usa) (sgb Enhanced)",
+            "file": "Jeopardy!_-_Platinum_Edition_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Jeopardy! - Sports Edition (usa)",
+            "file": "Jeopardy!_-_Sports_Edition_(USA).7z"
+        },
+        {
+            "title": "Jeopardy! - Teen Tournament (usa) (sgb Enhanced)",
+            "file": "Jeopardy!_-_Teen_Tournament_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Jetsons The - Robot Panic (usa Europe)",
+            "file": "Jetsons_The_-_Robot_Panic_(USA_Europe).7z"
+        },
+        {
+            "title": "Jimmy Connors Tennis (usa Europe)",
+            "file": "Jimmy_Connors_Tennis_(USA_Europe).7z"
+        },
+        {
+            "title": "Joe & Mac (usa)",
+            "file": "Joe_&_Mac_(USA).7z"
+        },
+        {
+            "title": "Jordan Vs Bird - One On One (usa Europe)",
+            "file": "Jordan_vs_Bird_-_One_on_One_(USA_Europe).7z"
+        },
+        {
+            "title": "Joshua & The Battle Of Jericho (usa) (unl)",
+            "file": "Joshua_&_the_Battle_of_Jericho_(USA)_(Unl).7z"
+        },
+        {
+            "title": "Judge Dredd (usa Europe)",
+            "file": "Judge_Dredd_(USA_Europe).7z"
+        },
+        {
+            "title": "Jungle Book The (usa Europe)",
+            "file": "Jungle_Book_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Jungle Strike (usa)",
+            "file": "Jungle_Strike_(USA).7z"
+        },
+        {
+            "title": "Jurassic Park (usa)",
+            "file": "Jurassic_Park_(USA).7z"
+        },
+        {
+            "title": "Jurassic Park Part 2 - The Chaos Continues (usa Europe) (enfrdeit)",
+            "file": "Jurassic_Park_Part_2_-_The_Chaos_Continues_(USA_Europe)_(EnFrDeIt).7z"
+        },
+        {
+            "title": "Karakuri Kengou Den Musashi Lord (japan)",
+            "file": "Karakuri_Kengou_Den_Musashi_Lord_(Japan).7z"
+        },
+        {
+            "title": "Ken Griffey Jr. Presents Major League Baseball (usa Europe) (sgb Enhanced)",
+            "file": "Ken_Griffey_Jr._Presents_Major_League_Baseball_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Kid Dracula (usa Europe)",
+            "file": "Kid_Dracula_(USA_Europe).7z"
+        },
+        {
+            "title": "Kid Icarus - Of Myths And Monsters (usa Europe)",
+            "file": "Kid_Icarus_-_Of_Myths_and_Monsters_(USA_Europe).7z"
+        },
+        {
+            "title": "Killer Instinct (usa Europe) (sgb Enhanced)",
+            "file": "Killer_Instinct_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Kingdom Crusade (usa)",
+            "file": "Kingdom_Crusade_(USA).7z"
+        },
+        {
+            "title": "King James Bible (usa) (unl)",
+            "file": "King_James_Bible_(USA)_(Unl).7z"
+        },
+        {
+            "title": "King Of Fighters 95 The (usa) (sgb Enhanced)",
+            "file": "King_of_Fighters_95_The_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Kirbys Block Ball (usa Europe) (sgb Enhanced)",
+            "file": "Kirbys_Block_Ball_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Kirbys Dream Land (usa Europe)",
+            "file": "Kirbys_Dream_Land_(USA_Europe).7z"
+        },
+        {
+            "title": "Kirbys Dream Land 2 (usa Europe) (sgb Enhanced)",
+            "file": "Kirbys_Dream_Land_2_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Kirbys Pinball Land (usa Europe)",
+            "file": "Kirbys_Pinball_Land_(USA_Europe).7z"
+        },
+        {
+            "title": "Kirbys Star Stacker (usa Europe) (sgb Enhanced)",
+            "file": "Kirbys_Star_Stacker_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Klax (usa) (mindscape)",
+            "file": "Klax_(USA)_(Mindscape).7z"
+        },
+        {
+            "title": "Knight Quest (usa)",
+            "file": "Knight_Quest_(USA).7z"
+        },
+        {
+            "title": "Krustys Fun House (usa Europe)",
+            "file": "Krustys_Fun_House_(USA_Europe).7z"
+        },
+        {
+            "title": "Kung-fu Master (usa Europe)",
+            "file": "Kung-Fu_Master_(USA_Europe).7z"
+        },
+        {
+            "title": "Kwirk - Hes A-maze-ing! (usa Europe)",
+            "file": "Kwirk_-_Hes_A-maze-ing!_(USA_Europe).7z"
+        },
+        {
+            "title": "Lamborghini American Challenge (usa Europe)",
+            "file": "Lamborghini_American_Challenge_(USA_Europe).7z"
+        },
+        {
+            "title": "Last Action Hero (usa Europe)",
+            "file": "Last_Action_Hero_(USA_Europe).7z"
+        },
+        {
+            "title": "Lazlos Leap (usa)",
+            "file": "Lazlos_Leap_(USA).7z"
+        },
+        {
+            "title": "Legend Of The River King Gb (usa) (sgb Enhanced)",
+            "file": "Legend_of_the_River_King_GB_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Legend Of Zelda The - Links Awakening (usa Europe)",
+            "file": "Legend_of_Zelda_The_-_Links_Awakening_(USA_Europe).7z"
+        },
+        {
+            "title": "Lemmings (usa)",
+            "file": "Lemmings_(USA).7z"
+        },
+        {
+            "title": "Lethal Weapon (usa Europe)",
+            "file": "Lethal_Weapon_(USA_Europe).7z"
+        },
+        {
+            "title": "Lion King The (usa)",
+            "file": "Lion_King_The_(USA).7z"
+        },
+        {
+            "title": "Little Mermaid The (usa)",
+            "file": "Little_Mermaid_The_(USA).7z"
+        },
+        {
+            "title": "Looney Tunes (usa Europe)",
+            "file": "Looney_Tunes_(USA_Europe).7z"
+        },
+        {
+            "title": "Looney Tunes 2 - Tasmanian Devil In Island Chase (usa Europe)",
+            "file": "Looney_Tunes_2_-_Tasmanian_Devil_in_Island_Chase_(USA_Europe).7z"
+        },
+        {
+            "title": "Lost World The - Jurassic Park (usa Europe) (sgb Enhanced)",
+            "file": "Lost_World_The_-_Jurassic_Park_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Madden 95 (usa Europe) (sgb Enhanced)",
+            "file": "Madden_95_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Madden 96 (usa Europe) (sgb Enhanced)",
+            "file": "Madden_96_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Madden 97 (usa) (sgb Enhanced)",
+            "file": "Madden_97_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Malibu Beach Volleyball (usa)",
+            "file": "Malibu_Beach_Volleyball_(USA).7z"
+        },
+        {
+            "title": "Marble Madness (usa Europe)",
+            "file": "Marble_Madness_(USA_Europe).7z"
+        },
+        {
+            "title": "Marios Picross (usa Europe) (sgb Enhanced)",
+            "file": "Marios_Picross_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Marus Mission (usa)",
+            "file": "Marus_Mission_(USA).7z"
+        },
+        {
+            "title": "Maui Mallard In Cold Shadow (usa)",
+            "file": "Maui_Mallard_in_Cold_Shadow_(USA).7z"
+        },
+        {
+            "title": "Megalit (usa Europe)",
+            "file": "Megalit_(USA_Europe).7z"
+        },
+        {
+            "title": "Mega Man Iii (usa)",
+            "file": "Mega_Man_III_(USA).7z"
+        },
+        {
+            "title": "Mega Man Iii (usa) (sample)",
+            "file": "Mega_Man_III_(USA)_(Sample).7z"
+        },
+        {
+            "title": "Mega Man Ii (usa)",
+            "file": "Mega_Man_II_(USA).7z"
+        },
+        {
+            "title": "Mega Man Iv (usa)",
+            "file": "Mega_Man_IV_(USA).7z"
+        },
+        {
+            "title": "Mega Man V (usa) (sgb Enhanced)",
+            "file": "Mega_Man_V_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Mercenary Force (usa Europe)",
+            "file": "Mercenary_Force_(USA_Europe).7z"
+        },
+        {
+            "title": "Metal Masters (usa)",
+            "file": "Metal_Masters_(USA).7z"
+        },
+        {
+            "title": "Mickeys Dangerous Chase (usa)",
+            "file": "Mickeys_Dangerous_Chase_(USA).7z"
+        },
+        {
+            "title": "Mickeys Ultimate Challenge (usa Europe)",
+            "file": "Mickeys_Ultimate_Challenge_(USA_Europe).7z"
+        },
+        {
+            "title": "Mickey Mouse - Magic Wands! (usa Europe) (sgb Enhanced)",
+            "file": "Mickey_Mouse_-_Magic_Wands!_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Micro Machines (usa Europe)",
+            "file": "Micro_Machines_(USA_Europe).7z"
+        },
+        {
+            "title": "Mighty Morphin Power Rangers (usa Europe) (sgb Enhanced)",
+            "file": "Mighty_Morphin_Power_Rangers_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Mighty Morphin Power Rangers - The Movie (usa Europe) (sgb Enhanced)",
+            "file": "Mighty_Morphin_Power_Rangers_-_The_Movie_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Milons Secret Castle (usa Europe)",
+            "file": "Milons_Secret_Castle_(USA_Europe).7z"
+        },
+        {
+            "title": "Miner 2049er Starring Bounty Bob (usa)",
+            "file": "Miner_2049er_Starring_Bounty_Bob_(USA).7z"
+        },
+        {
+            "title": "Missile Command (usa Europe)",
+            "file": "Missile_Command_(USA_Europe).7z"
+        },
+        {
+            "title": "Mole Mania (usa Europe) (sgb Enhanced)",
+            "file": "Mole_Mania_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Monopoly (usa)",
+            "file": "Monopoly_(USA).7z"
+        },
+        {
+            "title": "Monster Truck Wars (usa Europe)",
+            "file": "Monster_Truck_Wars_(USA_Europe).7z"
+        },
+        {
+            "title": "Mortal Kombat & Mortal Kombat Ii (usa Europe)",
+            "file": "Mortal_Kombat_&_Mortal_Kombat_II_(USA_Europe).7z"
+        },
+        {
+            "title": "Mortal Kombat (usa Europe)",
+            "file": "Mortal_Kombat_(USA_Europe).7z"
+        },
+        {
+            "title": "Mortal Kombat 3 (usa Europe)",
+            "file": "Mortal_Kombat_3_(USA_Europe).7z"
+        },
+        {
+            "title": "Mortal Kombat Ii (usa Europe)",
+            "file": "Mortal_Kombat_II_(USA_Europe).7z"
+        },
+        {
+            "title": "Motocross Maniacs (usa)",
+            "file": "Motocross_Maniacs_(USA).7z"
+        },
+        {
+            "title": "Mouse Trap Hotel (usa)",
+            "file": "Mouse_Trap_Hotel_(USA).7z"
+        },
+        {
+            "title": "Mr. Chins Gourmet Paradise (usa)",
+            "file": "Mr._Chins_Gourmet_Paradise_(USA).7z"
+        },
+        {
+            "title": "Mr. Do! (usa)",
+            "file": "Mr._Do!_(USA).7z"
+        },
+        {
+            "title": "Ms. Pac-man (usa)",
+            "file": "Ms._Pac-Man_(USA).7z"
+        },
+        {
+            "title": "Muhammad Ali Heavyweight Boxing (usa Europe)",
+            "file": "Muhammad_Ali_Heavyweight_Boxing_(USA_Europe).7z"
+        },
+        {
+            "title": "Mulan (usa) (sgb Enhanced)",
+            "file": "Mulan_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Mysterium (usa)",
+            "file": "Mysterium_(USA).7z"
+        },
+        {
+            "title": "Mystical Ninja Starring Goemon (usa) (sgb Enhanced)",
+            "file": "Mystical_Ninja_Starring_Goemon_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Nail N Scale (usa Europe)",
+            "file": "Nail_n_Scale_(USA_Europe).7z"
+        },
+        {
+            "title": "Navy Seals (usa Europe)",
+            "file": "Navy_SEALs_(USA_Europe).7z"
+        },
+        {
+            "title": "Nba All-star Challenge (usa Europe)",
+            "file": "NBA_All-Star_Challenge_(USA_Europe).7z"
+        },
+        {
+            "title": "Nba All-star Challenge 2 (usa Europe)",
+            "file": "NBA_All-Star_Challenge_2_(USA_Europe).7z"
+        },
+        {
+            "title": "Nba Jam (usa Europe)",
+            "file": "NBA_Jam_(USA_Europe).7z"
+        },
+        {
+            "title": "Nba Jam - Tournament Edition (usa Europe)",
+            "file": "NBA_Jam_-_Tournament_Edition_(USA_Europe).7z"
+        },
+        {
+            "title": "Nba Live 96 (usa Europe) (sgb Enhanced)",
+            "file": "NBA_Live_96_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Nemesis (usa)",
+            "file": "Nemesis_(USA).7z"
+        },
+        {
+            "title": "New Chessmaster The (usa Europe)",
+            "file": "New_Chessmaster_The_(USA_Europe).7z"
+        },
+        {
+            "title": "Nfl Football (usa)",
+            "file": "NFL_Football_(USA).7z"
+        },
+        {
+            "title": "Nfl Quarterback Club (usa Europe)",
+            "file": "NFL_Quarterback_Club_(USA_Europe).7z"
+        },
+        {
+            "title": "Nfl Quarterback Club 96 (usa Europe)",
+            "file": "NFL_Quarterback_Club_96_(USA_Europe).7z"
+        },
+        {
+            "title": "Nfl Quarterback Club Ii (usa Europe)",
+            "file": "NFL_Quarterback_Club_II_(USA_Europe).7z"
+        },
+        {
+            "title": "Nhl 96 (usa Europe) (sgb Enhanced)",
+            "file": "NHL_96_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Nhl Hockey 95 (usa Europe) (sgb Enhanced)",
+            "file": "NHL_Hockey_95_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Nigel Mansells World Championship Racing (usa)",
+            "file": "Nigel_Mansells_World_Championship_Racing_(USA).7z"
+        },
+        {
+            "title": "Ninja Boy (usa Europe)",
+            "file": "Ninja_Boy_(USA_Europe).7z"
+        },
+        {
+            "title": "Ninja Boy 2 (usa Europe)",
+            "file": "Ninja_Boy_2_(USA_Europe).7z"
+        },
+        {
+            "title": "Ninja Gaiden Shadow (usa)",
+            "file": "Ninja_Gaiden_Shadow_(USA).7z"
+        },
+        {
+            "title": "Ninja Taro (usa)",
+            "file": "Ninja_Taro_(USA).7z"
+        },
+        {
+            "title": "Nintendo World Cup (usa Europe)",
+            "file": "Nintendo_World_Cup_(USA_Europe).7z"
+        },
+        {
+            "title": "Niv Bible & The 20 Lost Levels Of Joshua (usa) (unl)",
+            "file": "NIV_Bible_&_the_20_Lost_Levels_of_Joshua_(USA)_(Unl).7z"
+        },
+        {
+            "title": "Nobunagas Ambition (usa)",
+            "file": "Nobunagas_Ambition_(USA).7z"
+        },
+        {
+            "title": "Oddworld Adventures (usa Europe)",
+            "file": "Oddworld_Adventures_(USA_Europe).7z"
+        },
+        {
+            "title": "Olympic Summer Games (usa Europe) (sgb Enhanced)",
+            "file": "Olympic_Summer_Games_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Operation C (usa)",
+            "file": "Operation_C_(USA).7z"
+        },
+        {
+            "title": "Out Of Gas (usa)",
+            "file": "Out_of_Gas_(USA).7z"
+        },
+        {
+            "title": "Pac-attack (usa) (sgb Enhanced)",
+            "file": "Pac-Attack_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Pac-in-time (usa) (sgb Enhanced)",
+            "file": "Pac-In-Time_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Pac-man (usa)",
+            "file": "Pac-Man_(USA).7z"
+        },
+        {
+            "title": "Pagemaster The (usa) (sgb Enhanced)",
+            "file": "Pagemaster_The_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Panel Action Bingo (usa)",
+            "file": "Panel_Action_Bingo_(USA).7z"
+        },
+        {
+            "title": "Paperboy (usa Europe)",
+            "file": "Paperboy_(USA_Europe).7z"
+        },
+        {
+            "title": "Paperboy 2 (usa Europe)",
+            "file": "Paperboy_2_(USA_Europe).7z"
+        },
+        {
+            "title": "Penguin Wars (usa)",
+            "file": "Penguin_Wars_(USA).7z"
+        },
+        {
+            "title": "Pga European Tour (usa Europe) (sgb Enhanced)",
+            "file": "PGA_European_Tour_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Pga Tour 96 (usa Europe) (sgb Enhanced)",
+            "file": "PGA_Tour_96_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Pinball Dreams (usa Europe)",
+            "file": "Pinball_Dreams_(USA_Europe).7z"
+        },
+        {
+            "title": "Pinball Fantasies (usa Europe)",
+            "file": "Pinball_Fantasies_(USA_Europe).7z"
+        },
+        {
+            "title": "Pinocchio (usa)",
+            "file": "Pinocchio_(USA).7z"
+        },
+        {
+            "title": "Pipe Dream (usa)",
+            "file": "Pipe_Dream_(USA).7z"
+        },
+        {
+            "title": "Pit-fighter (usa Europe)",
+            "file": "Pit-Fighter_(USA_Europe).7z"
+        },
+        {
+            "title": "Play Action Football (usa)",
+            "file": "Play_Action_Football_(USA).7z"
+        },
+        {
+            "title": "Pocahontas (usa Europe) (sgb Enhanced)",
+            "file": "Pocahontas_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Pokemon - Blue Version (usa Europe) (sgb Enhanced)",
+            "file": "Pokemon_-_Blue_Version_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Pokemon - Red Version (usa Europe) (sgb Enhanced)",
+            "file": "Pokemon_-_Red_Version_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Pokemon - Yellow Version - Special Pikachu Edition (usa Europe) (cgb+sgb Enhanced)",
+            "file": "Pokemon_-_Yellow_Version_-_Special_Pikachu_Edition_(USA_Europe)_(CGB+SGB_Enhanced).7z"
+        },
+        {
+            "title": "Popeye 2 (usa)",
+            "file": "Popeye_2_(USA).7z"
+        },
+        {
+            "title": "Power Mission (usa)",
+            "file": "Power_Mission_(USA).7z"
+        },
+        {
+            "title": "Power Racer (usa)",
+            "file": "Power_Racer_(USA).7z"
+        },
+        {
+            "title": "Prehistorik Man (usa Europe)",
+            "file": "Prehistorik_Man_(USA_Europe).7z"
+        },
+        {
+            "title": "Primal Rage (usa Europe)",
+            "file": "Primal_Rage_(USA_Europe).7z"
+        },
+        {
+            "title": "Prince Of Persia (usa)",
+            "file": "Prince_of_Persia_(USA).7z"
+        },
+        {
+            "title": "Prophecy - The Viking Child (usa)",
+            "file": "Prophecy_-_The_Viking_Child_(USA).7z"
+        },
+        {
+            "title": "Punisher The - The Ultimate Payback (usa)",
+            "file": "Punisher_The_-_The_Ultimate_Payback_(USA).7z"
+        },
+        {
+            "title": "Pyramids Of Ra (usa)",
+            "file": "Pyramids_of_Ra_(USA).7z"
+        },
+        {
+            "title": "Q-bert For Game Boy (usa Europe)",
+            "file": "Q-bert_for_Game_Boy_(USA_Europe).7z"
+        },
+        {
+            "title": "Quarth (usa Europe)",
+            "file": "Quarth_(USA_Europe).7z"
+        },
+        {
+            "title": "Q Billion (usa)",
+            "file": "Q_Billion_(USA).7z"
+        },
+        {
+            "title": "R-type (usa Europe)",
+            "file": "R-Type_(USA_Europe).7z"
+        },
+        {
+            "title": "Race Days (usa)",
+            "file": "Race_Days_(USA).7z"
+        },
+        {
+            "title": "Race Drivin (usa Europe)",
+            "file": "Race_Drivin_(USA_Europe).7z"
+        },
+        {
+            "title": "Radar Mission (usa Europe)",
+            "file": "Radar_Mission_(USA_Europe).7z"
+        },
+        {
+            "title": "Raging Fighter (usa Europe)",
+            "file": "Raging_Fighter_(USA_Europe).7z"
+        },
+        {
+            "title": "Rampart (usa Europe)",
+            "file": "Rampart_(USA_Europe).7z"
+        },
+        {
+            "title": "Real Ghostbusters The (usa)",
+            "file": "Real_Ghostbusters_The_(USA).7z"
+        },
+        {
+            "title": "Ren & Stimpy Show The - Space Cadet Adventures (usa)",
+            "file": "Ren_&_Stimpy_Show_The_-_Space_Cadet_Adventures_(USA).7z"
+        },
+        {
+            "title": "Ren & Stimpy Show The - Veediots! (usa Europe)",
+            "file": "Ren_&_Stimpy_Show_The_-_Veediots!_(USA_Europe).7z"
+        },
+        {
+            "title": "Riddick Bowe Boxing (usa)",
+            "file": "Riddick_Bowe_Boxing_(USA).7z"
+        },
+        {
+            "title": "Ring Rage (usa)",
+            "file": "Ring_Rage_(USA).7z"
+        },
+        {
+            "title": "Road Rash (usa Europe)",
+            "file": "Road_Rash_(USA_Europe).7z"
+        },
+        {
+            "title": "Robin Hood - Prince Of Thieves (usa)",
+            "file": "Robin_Hood_-_Prince_of_Thieves_(USA).7z"
+        },
+        {
+            "title": "Robocop (usa)",
+            "file": "RoboCop_(USA).7z"
+        },
+        {
+            "title": "Robocop 2 (usa Europe)",
+            "file": "RoboCop_2_(USA_Europe).7z"
+        },
+        {
+            "title": "Robocop Versus The Terminator (usa)",
+            "file": "RoboCop_versus_The_Terminator_(USA).7z"
+        },
+        {
+            "title": "Roger Clemens Mvp Baseball (usa)",
+            "file": "Roger_Clemens_MVP_Baseball_(USA).7z"
+        },
+        {
+            "title": "Rolans Curse (usa)",
+            "file": "Rolans_Curse_(USA).7z"
+        },
+        {
+            "title": "Rolans Curse Ii (usa)",
+            "file": "Rolans_Curse_II_(USA).7z"
+        },
+        {
+            "title": "Rugrats Movie The (usa) (sgb Enhanced)",
+            "file": "Rugrats_Movie_The_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Samurai Shodown (usa Europe) (sgb Enhanced)",
+            "file": "Samurai_Shodown_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Seaquest Dsv (usa Europe) (sgb Enhanced)",
+            "file": "seaQuest_DSV_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Serpent (usa)",
+            "file": "Serpent_(USA).7z"
+        },
+        {
+            "title": "Shanghai (usa)",
+            "file": "Shanghai_(USA).7z"
+        },
+        {
+            "title": "Shaq Fu (usa) (sgb Enhanced)",
+            "file": "Shaq_Fu_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Simpsons The - Bart & The Beanstalk (usa Europe)",
+            "file": "Simpsons_The_-_Bart_&_the_Beanstalk_(USA_Europe).7z"
+        },
+        {
+            "title": "Simpsons The - Bart Vs. The Juggernauts (usa Europe)",
+            "file": "Simpsons_The_-_Bart_vs._the_Juggernauts_(USA_Europe).7z"
+        },
+        {
+            "title": "Simpsons The - Itchy & Scratchy - Miniature Golf Madness (usa Europe)",
+            "file": "Simpsons_The_-_Itchy_&_Scratchy_-_Miniature_Golf_Madness_(USA_Europe).7z"
+        },
+        {
+            "title": "Skate Or Die - Bad N Rad (usa)",
+            "file": "Skate_or_Die_-_Bad_N_Rad_(USA).7z"
+        },
+        {
+            "title": "Skate Or Die - Tour De Thrash (usa)",
+            "file": "Skate_or_Die_-_Tour_de_Thrash_(USA).7z"
+        },
+        {
+            "title": "Small Soldiers (usa Europe) (sgb Enhanced)",
+            "file": "Small_Soldiers_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Sneaky Snakes (usa Europe)",
+            "file": "Sneaky_Snakes_(USA_Europe).7z"
+        },
+        {
+            "title": "Snoopys Magic Show (usa Europe)",
+            "file": "Snoopys_Magic_Show_(USA_Europe).7z"
+        },
+        {
+            "title": "Snow Brothers (usa)",
+            "file": "Snow_Brothers_(USA).7z"
+        },
+        {
+            "title": "Soccer Mania (usa)",
+            "file": "Soccer_Mania_(USA).7z"
+        },
+        {
+            "title": "Solitaire Funpak (usa Europe)",
+            "file": "Solitaire_FunPak_(USA_Europe).7z"
+        },
+        {
+            "title": "Solomons Club (usa)",
+            "file": "Solomons_Club_(USA).7z"
+        },
+        {
+            "title": "Space Invaders (usa) (sgb Enhanced)",
+            "file": "Space_Invaders_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Spankys Quest (usa)",
+            "file": "Spankys_Quest_(USA).7z"
+        },
+        {
+            "title": "Speedball 2 - Brutal Deluxe (usa Europe)",
+            "file": "Speedball_2_-_Brutal_Deluxe_(USA_Europe).7z"
+        },
+        {
+            "title": "Speedy Gonzales (usa Europe)",
+            "file": "Speedy_Gonzales_(USA_Europe).7z"
+        },
+        {
+            "title": "Spider-man 2 (usa Europe)",
+            "file": "Spider-Man_2_(USA_Europe).7z"
+        },
+        {
+            "title": "Spider-man 3 - Invasion Of The Spider-slayers (usa Europe)",
+            "file": "Spider-Man_3_-_Invasion_of_the_Spider-Slayers_(USA_Europe).7z"
+        },
+        {
+            "title": "Spiritual Warfare (usa) (unl)",
+            "file": "Spiritual_Warfare_(USA)_(Unl).7z"
+        },
+        {
+            "title": "Sports Illustrated - Championship Football & Baseball (usa)",
+            "file": "Sports_Illustrated_-_Championship_Football_&_Baseball_(USA).7z"
+        },
+        {
+            "title": "Sports Illustrated - Golf Classic (usa) (sgb Enhanced)",
+            "file": "Sports_Illustrated_-_Golf_Classic_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Sports Illustrated For Kids - The Ultimate Triple Dare! (usa)",
+            "file": "Sports_Illustrated_for_Kids_-_The_Ultimate_Triple_Dare!_(USA).7z"
+        },
+        {
+            "title": "Spot - The Cool Adventure (usa)",
+            "file": "Spot_-_The_Cool_Adventure_(USA).7z"
+        },
+        {
+            "title": "Spot - The Video Game (usa)",
+            "file": "Spot_-_The_Video_Game_(USA).7z"
+        },
+        {
+            "title": "Spuds Adventure (usa)",
+            "file": "Spuds_Adventure_(USA).7z"
+        },
+        {
+            "title": "Spy Vs Spy - Operation Boobytrap (usa)",
+            "file": "Spy_vs_Spy_-_Operation_Boobytrap_(USA).7z"
+        },
+        {
+            "title": "Square Deal - The Game Of Two-dimensional Poker (usa)",
+            "file": "Square_Deal_-_The_Game_of_Two-Dimensional_Poker_(USA).7z"
+        },
+        {
+            "title": "Stargate (usa Europe)",
+            "file": "Stargate_(USA_Europe).7z"
+        },
+        {
+            "title": "Star Trek - 25th Anniversary (usa Europe)",
+            "file": "Star_Trek_-_25th_Anniversary_(USA_Europe).7z"
+        },
+        {
+            "title": "Star Trek - The Next Generation (usa Europe)",
+            "file": "Star_Trek_-_The_Next_Generation_(USA_Europe).7z"
+        },
+        {
+            "title": "Star Trek Generations - Beyond The Nexus (usa) (sgb Enhanced)",
+            "file": "Star_Trek_Generations_-_Beyond_the_Nexus_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Star Wars (usa)",
+            "file": "Star_Wars_(USA).7z"
+        },
+        {
+            "title": "Star Wars - The Empire Strikes Back (usa)",
+            "file": "Star_Wars_-_The_Empire_Strikes_Back_(USA).7z"
+        },
+        {
+            "title": "Star Wars - The Empire Strikes Back (usa Europe)",
+            "file": "Star_Wars_-_The_Empire_Strikes_Back_(USA_Europe).7z"
+        },
+        {
+            "title": "Stop That Roach! (usa)",
+            "file": "Stop_That_Roach!_(USA).7z"
+        },
+        {
+            "title": "Street Fighter Ii (usa Europe) (sgb Enhanced)",
+            "file": "Street_Fighter_II_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Street Racer (usa Europe)",
+            "file": "Street_Racer_(USA_Europe).7z"
+        },
+        {
+            "title": "Sumo Fighter (usa)",
+            "file": "Sumo_Fighter_(USA).7z"
+        },
+        {
+            "title": "Superman (usa Europe) (sgb Enhanced)",
+            "file": "Superman_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Super Battletank (usa)",
+            "file": "Super_Battletank_(USA).7z"
+        },
+        {
+            "title": "Super Black Bass (usa)",
+            "file": "Super_Black_Bass_(USA).7z"
+        },
+        {
+            "title": "Super Breakout (usa)",
+            "file": "Super_Breakout_(USA).7z"
+        },
+        {
+            "title": "Super Chase H.q. (usa Europe)",
+            "file": "Super_Chase_H.Q._(USA_Europe).7z"
+        },
+        {
+            "title": "Super Hunchback (usa)",
+            "file": "Super_Hunchback_(USA).7z"
+        },
+        {
+            "title": "Super Mario Land 2 - 6 Golden Coins (usa Europe)",
+            "file": "Super_Mario_Land_2_-_6_Golden_Coins_(USA_Europe).7z"
+        },
+        {
+            "title": "Super Off Road (usa Europe)",
+            "file": "Super_Off_Road_(USA_Europe).7z"
+        },
+        {
+            "title": "Super R.c. Pro-am (usa Europe)",
+            "file": "Super_R.C._Pro-Am_(USA_Europe).7z"
+        },
+        {
+            "title": "Super Scrabble (usa)",
+            "file": "Super_Scrabble_(USA).7z"
+        },
+        {
+            "title": "Super Star Wars - Return Of The Jedi (usa Europe) (sgb Enhanced)",
+            "file": "Super_Star_Wars_-_Return_of_the_Jedi_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Swamp Thing (usa Europe)",
+            "file": "Swamp_Thing_(USA_Europe).7z"
+        },
+        {
+            "title": "Sword Of Hope Ii The (usa)",
+            "file": "Sword_of_Hope_II_The_(USA).7z"
+        },
+        {
+            "title": "Sword Of Hope The (usa)",
+            "file": "Sword_of_Hope_The_(USA).7z"
+        },
+        {
+            "title": "T2 - The Arcade Game (usa Europe)",
+            "file": "T2_-_The_Arcade_Game_(USA_Europe).7z"
+        },
+        {
+            "title": "Tail Gator (usa Europe)",
+            "file": "Tail_Gator_(USA_Europe).7z"
+        },
+        {
+            "title": "Talespin (usa)",
+            "file": "TaleSpin_(USA).7z"
+        },
+        {
+            "title": "Tamagotchi (usa Europe) (sgb Enhanced)",
+            "file": "Tamagotchi_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Tarzan - Lord Of The Jungle (usa Europe)",
+            "file": "Tarzan_-_Lord_of_the_Jungle_(USA_Europe).7z"
+        },
+        {
+            "title": "Tasmania Story (usa)",
+            "file": "Tasmania_Story_(USA).7z"
+        },
+        {
+            "title": "Taz-mania 2 (usa)",
+            "file": "Taz-Mania_2_(USA).7z"
+        },
+        {
+            "title": "Tecmo Bowl (usa)",
+            "file": "Tecmo_Bowl_(USA).7z"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles - Fall Of The Foot Clan (usa)",
+            "file": "Teenage_Mutant_Ninja_Turtles_-_Fall_of_the_Foot_Clan_(USA).7z"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles Iii - Radical Rescue (usa)",
+            "file": "Teenage_Mutant_Ninja_Turtles_III_-_Radical_Rescue_(USA).7z"
+        },
+        {
+            "title": "Teenage Mutant Ninja Turtles Ii - Back From The Sewers (usa)",
+            "file": "Teenage_Mutant_Ninja_Turtles_II_-_Back_from_the_Sewers_(USA).7z"
+        },
+        {
+            "title": "Terminator 2 - Judgment Day (usa Europe)",
+            "file": "Terminator_2_-_Judgment_Day_(USA_Europe).7z"
+        },
+        {
+            "title": "Tesserae (usa)",
+            "file": "Tesserae_(USA).7z"
+        },
+        {
+            "title": "Tetris 2 (usa)",
+            "file": "Tetris_2_(USA).7z"
+        },
+        {
+            "title": "Tetris 2 (usa Europe) (sgb Enhanced)",
+            "file": "Tetris_2_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Tetris Attack (usa Europe) (sgb Enhanced)",
+            "file": "Tetris_Attack_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Tetris Blast (usa Europe) (sgb Enhanced)",
+            "file": "Tetris_Blast_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Tetris Plus (usa Europe) (sgb Enhanced)",
+            "file": "Tetris_Plus_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Tiny Toon Adventures - Babs Big Break (usa Europe)",
+            "file": "Tiny_Toon_Adventures_-_Babs_Big_Break_(USA_Europe).7z"
+        },
+        {
+            "title": "Tiny Toon Adventures - Wacky Sports (usa)",
+            "file": "Tiny_Toon_Adventures_-_Wacky_Sports_(USA).7z"
+        },
+        {
+            "title": "Tiny Toon Adventures 2 - Montanas Movie Madness (usa Europe)",
+            "file": "Tiny_Toon_Adventures_2_-_Montanas_Movie_Madness_(USA_Europe).7z"
+        },
+        {
+            "title": "Titus The Fox (usa Europe)",
+            "file": "Titus_the_Fox_(USA_Europe).7z"
+        },
+        {
+            "title": "Tom & Jerry (usa Europe)",
+            "file": "Tom_&_Jerry_(USA_Europe).7z"
+        },
+        {
+            "title": "Tom And Jerry - Frantic Antics! (usa Europe)",
+            "file": "Tom_and_Jerry_-_Frantic_Antics!_(USA_Europe).7z"
+        },
+        {
+            "title": "Top Gun - Guts & Glory (usa Europe)",
+            "file": "Top_Gun_-_Guts_&_Glory_(USA_Europe).7z"
+        },
+        {
+            "title": "Top Rank Tennis (usa)",
+            "file": "Top_Rank_Tennis_(USA).7z"
+        },
+        {
+            "title": "Torpedo Range (usa)",
+            "file": "Torpedo_Range_(USA).7z"
+        },
+        {
+            "title": "Total Carnage (usa Europe)",
+            "file": "Total_Carnage_(USA_Europe).7z"
+        },
+        {
+            "title": "Toxic Crusaders (usa)",
+            "file": "Toxic_Crusaders_(USA).7z"
+        },
+        {
+            "title": "Toy Story (usa) (sgb Enhanced)",
+            "file": "Toy_Story_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Track & Field (usa Europe)",
+            "file": "Track_&_Field_(USA_Europe).7z"
+        },
+        {
+            "title": "Track Meet (usa Europe)",
+            "file": "Track_Meet_(USA_Europe).7z"
+        },
+        {
+            "title": "Trax (usa Europe)",
+            "file": "Trax_(USA_Europe).7z"
+        },
+        {
+            "title": "True Lies (usa Europe)",
+            "file": "True_Lies_(USA_Europe).7z"
+        },
+        {
+            "title": "Tumble Pop (usa Europe)",
+            "file": "Tumble_Pop_(USA_Europe).7z"
+        },
+        {
+            "title": "Turn And Burn - The F-14 Dogfight Simulator (usa)",
+            "file": "Turn_and_Burn_-_The_F-14_Dogfight_Simulator_(USA).7z"
+        },
+        {
+            "title": "Turok - Battle Of The Bionosaurs (usa Europe) (enfrdees)",
+            "file": "Turok_-_Battle_of_the_Bionosaurs_(USA_Europe)_(EnFrDeEs).7z"
+        },
+        {
+            "title": "Turrican (usa Europe)",
+            "file": "Turrican_(USA_Europe).7z"
+        },
+        {
+            "title": "Ultima - Runes Of Virtue (usa)",
+            "file": "Ultima_-_Runes_of_Virtue_(USA).7z"
+        },
+        {
+            "title": "Ultima - Runes Of Virtue Ii (usa)",
+            "file": "Ultima_-_Runes_of_Virtue_II_(USA).7z"
+        },
+        {
+            "title": "Ultra Golf (usa)",
+            "file": "Ultra_Golf_(USA).7z"
+        },
+        {
+            "title": "Universal Soldier (usa Europe)",
+            "file": "Universal_Soldier_(USA_Europe).7z"
+        },
+        {
+            "title": "Urban Strike (usa Europe) (sgb Enhanced)",
+            "file": "Urban_Strike_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Vegas Stakes (usa Europe) (sgb Enhanced)",
+            "file": "Vegas_Stakes_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Wario Blast Featuring Bomberman! (usa Europe) (sgb Enhanced)",
+            "file": "Wario_Blast_Featuring_Bomberman!_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Wario Land Ii (usa Europe) (sgb Enhanced)",
+            "file": "Wario_Land_II_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Wave Race (usa Europe)",
+            "file": "Wave_Race_(USA_Europe).7z"
+        },
+        {
+            "title": "Waynes World (usa)",
+            "file": "Waynes_World_(USA).7z"
+        },
+        {
+            "title": "Wcw - The Main Event (usa Europe)",
+            "file": "WCW_-_The_Main_Event_(USA_Europe).7z"
+        },
+        {
+            "title": "Were Back! - A Dinosaurs Story (usa Europe)",
+            "file": "Were_Back!_-_A_Dinosaurs_Story_(USA_Europe).7z"
+        },
+        {
+            "title": "Wheel Of Fortune (usa)",
+            "file": "Wheel_of_Fortune_(USA).7z"
+        },
+        {
+            "title": "Who Framed Roger Rabbit (usa)",
+            "file": "Who_Framed_Roger_Rabbit_(USA).7z"
+        },
+        {
+            "title": "Wild Snake (usa) (sgb Enhanced)",
+            "file": "Wild_Snake_(USA)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Winter Olympic Games (usa)",
+            "file": "Winter_Olympic_Games_(USA).7z"
+        },
+        {
+            "title": "Wizards & Warriors X - The Fortress Of Fear (usa Europe)",
+            "file": "Wizards_&_Warriors_X_-_The_Fortress_of_Fear_(USA_Europe).7z"
+        },
+        {
+            "title": "Wordtris (usa)",
+            "file": "Wordtris_(USA).7z"
+        },
+        {
+            "title": "Wordzap (usa)",
+            "file": "WordZap_(USA).7z"
+        },
+        {
+            "title": "World Bowling (usa)",
+            "file": "World_Bowling_(USA).7z"
+        },
+        {
+            "title": "World Circuit Series (usa)",
+            "file": "World_Circuit_Series_(USA).7z"
+        },
+        {
+            "title": "World Cup 98 (usa Europe) (sgb Enhanced)",
+            "file": "World_Cup_98_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "World Cup Usa 94 (europe) (enfrdeesitnlptsv)",
+            "file": "World_Cup_USA_94_(Europe)_(EnFrDeEsItNlPtSv).7z"
+        },
+        {
+            "title": "World Cup Usa 94 (japan) (enfrdeesitnlptsv)",
+            "file": "World_Cup_USA_94_(Japan)_(EnFrDeEsItNlPtSv).7z"
+        },
+        {
+            "title": "World Heroes 2 Jet (usa Europe) (sgb Enhanced)",
+            "file": "World_Heroes_2_Jet_(USA_Europe)_(SGB_Enhanced).7z"
+        },
+        {
+            "title": "Wwf King Of The Ring (usa Europe)",
+            "file": "WWF_King_of_the_Ring_(USA_Europe).7z"
+        },
+        {
+            "title": "Wwf Raw (usa Europe)",
+            "file": "WWF_Raw_(USA_Europe).7z"
+        },
+        {
+            "title": "Wwf Superstars (usa Europe)",
+            "file": "WWF_Superstars_(USA_Europe).7z"
+        },
+        {
+            "title": "Wwf Superstars 2 (usa Europe)",
+            "file": "WWF_Superstars_2_(USA_Europe).7z"
+        },
+        {
+            "title": "Wwf War Zone (usa Europe)",
+            "file": "WWF_War_Zone_(USA_Europe).7z"
+        },
+        {
+            "title": "Xenon 2 (usa Europe)",
+            "file": "Xenon_2_(USA_Europe).7z"
+        },
+        {
+            "title": "Year After The (usa) (aftermarket) (homebrew)",
+            "file": "Year_After_The_(USA)_(Aftermarket)_(Homebrew).7z"
+        },
+        {
+            "title": "Yogi Bears Gold Rush (usa)",
+            "file": "Yogi_Bears_Gold_Rush_(USA).7z"
+        },
+        {
+            "title": "Yoshis Cookie (usa Europe)",
+            "file": "Yoshis_Cookie_(USA_Europe).7z"
+        },
+        {
+            "title": "Yoshi (usa)",
+            "file": "Yoshi_(USA).7z"
+        },
+        {
+            "title": "Zen - Intergalactic Ninja (usa)",
+            "file": "Zen_-_Intergalactic_Ninja_(USA).7z"
+        },
+        {
+            "title": "Zool - Ninja Of The Nth Dimension (usa)",
+            "file": "Zool_-_Ninja_of_the_Nth_Dimension_(USA).7z"
+        },
+        {
+            "title": "Zoop (usa Europe)",
+            "file": "Zoop_(USA_Europe).7z"
+        }
+    ]
+}

@@ -1,0 +1,1492 @@
+{
+    "games": [
+        {
+            "title": "007",
+            "file": "007.gba"
+        },
+        {
+            "title": "0994",
+            "file": "0994.gba"
+        },
+        {
+            "title": "Advancewars",
+            "file": "advancewars.gba"
+        },
+        {
+            "title": "Advancewars2",
+            "file": "advancewars2.gba"
+        },
+        {
+            "title": "Adventure-blue-chapter-b1.1",
+            "file": "adventure-blue-chapter-b1.1.gba"
+        },
+        {
+            "title": "Adventure-gold-chapter-b1.2",
+            "file": "adventure-gold-chapter-b1.2.gba"
+        },
+        {
+            "title": "Adventure-green-chapter-b3",
+            "file": "adventure-green-chapter-b3.gba"
+        },
+        {
+            "title": "Adventure-red-chapter-b15-exp-fix-c",
+            "file": "adventure-red-chapter-b15-exp-fix-c.gba"
+        },
+        {
+            "title": "Adventure-to-empire-isle-v0.5",
+            "file": "adventure-to-empire-isle-v0.5.gba"
+        },
+        {
+            "title": "Adventure-yellow-chapter-demo-fixed",
+            "file": "adventure-yellow-chapter-demo-fixed.gba"
+        },
+        {
+            "title": "Aero The Acrobat Rascal Rival Revenge",
+            "file": "Aero_the_Acrobat__Rascal_Rival_Revenge.gba"
+        },
+        {
+            "title": "Aladdin",
+            "file": "aladdin.gba"
+        },
+        {
+            "title": "Alienhominid",
+            "file": "alienhominid.gba"
+        },
+        {
+            "title": "Altair-2020-09-04",
+            "file": "altair-2020-09-04.gba"
+        },
+        {
+            "title": "Altered-v1.11.2",
+            "file": "altered-v1.11.2.gba"
+        },
+        {
+            "title": "Alternate-evolutions-final",
+            "file": "alternate-evolutions-final.gba"
+        },
+        {
+            "title": "Aluminum-v0.1",
+            "file": "aluminum-v0.1.gba"
+        },
+        {
+            "title": "Another-emerald-v1.10c",
+            "file": "another-emerald-v1.10c.gba"
+        },
+        {
+            "title": "Ash-hoenn-2021-06-08",
+            "file": "ash-hoenn-2021-06-08.gba"
+        },
+        {
+            "title": "Ash-johto-2021-01-17",
+            "file": "ash-johto-2021-01-17.gba"
+        },
+        {
+            "title": "Ash-kanto-2020-05-27",
+            "file": "ash-kanto-2020-05-27.gba"
+        },
+        {
+            "title": "Ash-kanto-msb-2021-07-15",
+            "file": "ash-kanto-msb-2021-07-15.gba"
+        },
+        {
+            "title": "Ash-orange-league-2020-08-17",
+            "file": "ash-orange-league-2020-08-17.gba"
+        },
+        {
+            "title": "Ashgray-b4.5.3",
+            "file": "ashgray-b4.5.3.gba"
+        },
+        {
+            "title": "Astro Boy Omega Factor",
+            "file": "Astro_Boy__Omega_Factor.gba"
+        },
+        {
+            "title": "Atari",
+            "file": "atari.gba"
+        },
+        {
+            "title": "Atari Anniversary Advance (usa)",
+            "file": "Atari_Anniversary_Advance_(USA).gba"
+        },
+        {
+            "title": "Banjo Kazooie Gruntys Revenge",
+            "file": "Banjo_Kazooie__Gruntys_Revenge.gba"
+        },
+        {
+            "title": "Banjo Pilot",
+            "file": "Banjo_Pilot.gba"
+        },
+        {
+            "title": "Blazing-emerald-v1.6",
+            "file": "blazing-emerald-v1.6.gba"
+        },
+        {
+            "title": "Bomberman Max2blue",
+            "file": "bomberman_max2blue.gba"
+        },
+        {
+            "title": "Bomberman Max 2 Red (e)",
+            "file": "Bomberman_Max_2__Red_(E).gba"
+        },
+        {
+            "title": "Bomberman Tournament",
+            "file": "bomberman_tournament.gba"
+        },
+        {
+            "title": "Breath Of Fire (e)",
+            "file": "Breath_of_Fire_(E).gba"
+        },
+        {
+            "title": "Breath Of Fire Ii (usa)",
+            "file": "Breath_of_Fire_II_(USA).gba"
+        },
+        {
+            "title": "Broken Sword The Shadow Of The Templars",
+            "file": "Broken_Sword__the_Shadow_of_the_Templars.gba"
+        },
+        {
+            "title": "Bubblebobble",
+            "file": "bubblebobble.gba"
+        },
+        {
+            "title": "Car Battler Joe (usa)",
+            "file": "Car_Battler_Joe_(USA).gba"
+        },
+        {
+            "title": "Castlevania Aria Of Sorrow (usa)",
+            "file": "Castlevania__Aria_of_Sorrow_(USA).gba"
+        },
+        {
+            "title": "Castlevania Circle Of The Moon",
+            "file": "Castlevania__Circle_of_the_Moon.gba"
+        },
+        {
+            "title": "Castlevania Harmony Of Dissonance",
+            "file": "Castlevania__Harmony_Of_Dissonance.gba"
+        },
+        {
+            "title": "Cb2",
+            "file": "cb2.gba"
+        },
+        {
+            "title": "Cbha",
+            "file": "cbha.gba"
+        },
+        {
+            "title": "Cbprr",
+            "file": "cbprr.gba"
+        },
+        {
+            "title": "Cfpt",
+            "file": "cfpt.gba"
+        },
+        {
+            "title": "Chu Chu Rocket!",
+            "file": "Chu_Chu_Rocket!.gba"
+        },
+        {
+            "title": "Clays-calamity-1-v10",
+            "file": "clays-calamity-1-v10.gba"
+        },
+        {
+            "title": "Clays-calamity-2-v5.1",
+            "file": "clays-calamity-2-v5.1.gba"
+        },
+        {
+            "title": "Clays-calamity-3-v3.9.3",
+            "file": "clays-calamity-3-v3.9.3.gba"
+        },
+        {
+            "title": "Cloud-white-3-v277",
+            "file": "cloud-white-3-v277.gba"
+        },
+        {
+            "title": "Cloud-white-v515",
+            "file": "cloud-white-v515.gba"
+        },
+        {
+            "title": "Cnk",
+            "file": "cnk.gba"
+        },
+        {
+            "title": "Cosmicemerald-2019-12-24",
+            "file": "cosmicemerald-2019-12-24.gba"
+        },
+        {
+            "title": "Crash Bandicoot 2 N-tranced",
+            "file": "Crash_Bandicoot_2__N-Tranced.gba"
+        },
+        {
+            "title": "Crash Bandicoot Purple Riptos Rampage",
+            "file": "Crash_Bandicoot__Purple_Riptos_Rampage.gba"
+        },
+        {
+            "title": "Crash Bandicoot The Huge Adventure",
+            "file": "Crash_Bandicoot__the_Huge_Adventure.gba"
+        },
+        {
+            "title": "Croket1",
+            "file": "croket1.gba"
+        },
+        {
+            "title": "Croket2",
+            "file": "croket2.gba"
+        },
+        {
+            "title": "Croket3",
+            "file": "croket3.gba"
+        },
+        {
+            "title": "Croket4",
+            "file": "croket4.gba"
+        },
+        {
+            "title": "Dark-rising-2-completed",
+            "file": "dark-rising-2-completed.gba"
+        },
+        {
+            "title": "Dark-rising-order-destroyed-completed",
+            "file": "dark-rising-order-destroyed-completed.gba"
+        },
+        {
+            "title": "Dark-rising-origins-wc-final",
+            "file": "dark-rising-origins-wc-final.gba"
+        },
+        {
+            "title": "Darkfire-b2.0.5",
+            "file": "darkfire-b2.0.5.gba"
+        },
+        {
+            "title": "Darkrising-1-complete",
+            "file": "darkrising-1-complete.gba"
+        },
+        {
+            "title": "Darkrising-kaizo-2017-04-27",
+            "file": "darkrising-kaizo-2017-04-27.gba"
+        },
+        {
+            "title": "Dbz Supersonic",
+            "file": "dbz_supersonic.gba"
+        },
+        {
+            "title": "Delta-emerald-v1.1.5",
+            "file": "delta-emerald-v1.1.5.gba"
+        },
+        {
+            "title": "Delta-fusion",
+            "file": "delta-fusion.gba"
+        },
+        {
+            "title": "Denki Blocks! (usa) (en,es)",
+            "file": "Denki_Blocks!_(USA)_(En,Es).gba"
+        },
+        {
+            "title": "Densetsu No Stafy",
+            "file": "Densetsu_no_Stafy.gba"
+        },
+        {
+            "title": "Densetsu No Stafy 2",
+            "file": "Densetsu_no_Stafy_2.gba"
+        },
+        {
+            "title": "Densetsu No Stafy 3",
+            "file": "Densetsu_no_Stafy_3.gba"
+        },
+        {
+            "title": "Digimon Racing",
+            "file": "digimon_racing.gba"
+        },
+        {
+            "title": "Disneys Kim Possible 2 Drakkens Demise (u)",
+            "file": "Disneys_Kim_Possible_2__Drakkens_Demise_(U).gba"
+        },
+        {
+            "title": "Dkc",
+            "file": "dkc.gba"
+        },
+        {
+            "title": "Dkc2",
+            "file": "dkc2.gba"
+        },
+        {
+            "title": "Dkc3",
+            "file": "dkc3.gba"
+        },
+        {
+            "title": "Dkkos",
+            "file": "dkkos.gba"
+        },
+        {
+            "title": "Dm",
+            "file": "dm.gba"
+        },
+        {
+            "title": "Dm2",
+            "file": "dm2.gba"
+        },
+        {
+            "title": "Dmpl",
+            "file": "dmpl.gba"
+        },
+        {
+            "title": "Dna",
+            "file": "dna.gba"
+        },
+        {
+            "title": "Dnd",
+            "file": "dnd.gba"
+        },
+        {
+            "title": "Donkey Kong Country",
+            "file": "Donkey_Kong_Country.gba"
+        },
+        {
+            "title": "Donkey Kong Country 2 (u)",
+            "file": "Donkey_Kong_Country_2_(U).gba"
+        },
+        {
+            "title": "Donkey Kong Country 3",
+            "file": "Donkey_Kong_Country_3.gba"
+        },
+        {
+            "title": "Donkey Kong King Of Swing",
+            "file": "Donkey_Kong__King_of_Swing.gba"
+        },
+        {
+            "title": "Dr. Mario & Puzzle League",
+            "file": "Dr._Mario_&_Puzzle_League.gba"
+        },
+        {
+            "title": "Dragonball---advanced-adventure--gba",
+            "file": "Dragonball---Advanced-Adventure--GBA.gba"
+        },
+        {
+            "title": "Dragonball-gt---transformation--gba",
+            "file": "Dragonball-GT---Transformation--GBA.gba"
+        },
+        {
+            "title": "Dragonball-z---buus-fury--gba",
+            "file": "Dragonball-Z---Buus-Fury--GBA.gba"
+        },
+        {
+            "title": "Dragonball-z---supersonic-warriors--gba",
+            "file": "Dragonball-Z---Supersonic-Warriors--GBA.gba"
+        },
+        {
+            "title": "Dragonball-z---taiketsu--gba",
+            "file": "Dragonball-Z---Taiketsu--GBA.gba"
+        },
+        {
+            "title": "Dragonball-z---the-legacy-of-goku--gba",
+            "file": "Dragonball-Z---the-Legacy-of-Goku--GBA.gba"
+        },
+        {
+            "title": "Dragonball-z---the-legacy-of-goku-2--gba",
+            "file": "Dragonball-Z---the-Legacy-of-Goku-2--GBA.gba"
+        },
+        {
+            "title": "Dreams-v1.5.1",
+            "file": "dreams-v1.5.1.gba"
+        },
+        {
+            "title": "Drilldozer",
+            "file": "drilldozer.gba"
+        },
+        {
+            "title": "Drill Dozer",
+            "file": "Drill_Dozer.gba"
+        },
+        {
+            "title": "Duke Nukem Advance (u)",
+            "file": "Duke_Nukem_Advance_(U).gba"
+        },
+        {
+            "title": "Earthwormjim",
+            "file": "earthwormjim.gba"
+        },
+        {
+            "title": "Earthwormjim2",
+            "file": "earthwormjim2.gba"
+        },
+        {
+            "title": "Ecks Vs. Sever (e)",
+            "file": "Ecks_vs._Sever_(E).gba"
+        },
+        {
+            "title": "Emerald-chaos-rush",
+            "file": "emerald-chaos-rush.gba"
+        },
+        {
+            "title": "Emerald-extreme-randomizer",
+            "file": "emerald-extreme-randomizer.gba"
+        },
+        {
+            "title": "Emerald-extreme-rom",
+            "file": "Emerald-Extreme-Rom.gba"
+        },
+        {
+            "title": "Emerald-genesis-b2.1",
+            "file": "emerald-genesis-b2.1.gba"
+        },
+        {
+            "title": "Emerald-multiplayer",
+            "file": "emerald-multiplayer.gba"
+        },
+        {
+            "title": "Emerald-negative-exp",
+            "file": "emerald-negative-exp.gba"
+        },
+        {
+            "title": "Emerald-randomizer",
+            "file": "emerald-randomizer.gba"
+        },
+        {
+            "title": "Eprp",
+            "file": "eprp.gba"
+        },
+        {
+            "title": "Fan4",
+            "file": "fan4.gba"
+        },
+        {
+            "title": "Fan4fo",
+            "file": "fan4fo.gba"
+        },
+        {
+            "title": "Ff1and2",
+            "file": "ff1and2.gba"
+        },
+        {
+            "title": "Ff4",
+            "file": "ff4.gba"
+        },
+        {
+            "title": "Ff4s",
+            "file": "ff4S.gba"
+        },
+        {
+            "title": "Ff6",
+            "file": "ff6.gba"
+        },
+        {
+            "title": "Ffeud",
+            "file": "ffeud.gba"
+        },
+        {
+            "title": "Fifa4",
+            "file": "fifa4.gba"
+        },
+        {
+            "title": "Fifa5",
+            "file": "fifa5.gba"
+        },
+        {
+            "title": "Fifa6",
+            "file": "fifa6.gba"
+        },
+        {
+            "title": "Fifa7",
+            "file": "fifa7.gba"
+        },
+        {
+            "title": "Fifawc6",
+            "file": "fifawc6.gba"
+        },
+        {
+            "title": "Filenames",
+            "file": "filenames.txt"
+        },
+        {
+            "title": "Final Fantasy Tactics",
+            "file": "final_fantasy_tactics.gba"
+        },
+        {
+            "title": "Final Fight One (u)",
+            "file": "Final_Fight_One_(U).gba"
+        },
+        {
+            "title": "Firered-chaos-rush",
+            "file": "firered-chaos-rush.gba"
+        },
+        {
+            "title": "Fire Emblem",
+            "file": "fire_emblem.gba"
+        },
+        {
+            "title": "Fr3",
+            "file": "fr3.gba"
+        },
+        {
+            "title": "Frogger1",
+            "file": "frogger1.gba"
+        },
+        {
+            "title": "Frogger2",
+            "file": "frogger2.gba"
+        },
+        {
+            "title": "Frogger3",
+            "file": "frogger3.gba"
+        },
+        {
+            "title": "Fused-dimensions-v1.6",
+            "file": "fused-dimensions-v1.6.gba"
+        },
+        {
+            "title": "Fusion-3-red-blue",
+            "file": "Fusion-3-Red-Blue.gba"
+        },
+        {
+            "title": "Fusion-3",
+            "file": "fusion-3.gba"
+        },
+        {
+            "title": "Fusion-origins-v3.8",
+            "file": "fusion-origins-v3.8.gba"
+        },
+        {
+            "title": "Fzero Gp",
+            "file": "fzero_gp.gba"
+        },
+        {
+            "title": "Fzero Max",
+            "file": "fzero_max.gba"
+        },
+        {
+            "title": "Gamewatch4",
+            "file": "gamewatch4.gba"
+        },
+        {
+            "title": "Gb",
+            "file": "gb.ico"
+        },
+        {
+            "title": "Gba",
+            "file": "gba.png"
+        },
+        {
+            "title": "Gba Bios",
+            "file": "gba_bios.bin"
+        },
+        {
+            "title": "Gba Video Pokemon 1",
+            "file": "gba_video_pokemon_1.gba"
+        },
+        {
+            "title": "Gba Video Pokemon 2",
+            "file": "gba_video_pokemon_2.gba"
+        },
+        {
+            "title": "Gba Video Pokemon 3",
+            "file": "gba_video_pokemon_3.gba"
+        },
+        {
+            "title": "Gba Video Pokemon 4",
+            "file": "gba_video_pokemon_4.gba"
+        },
+        {
+            "title": "Goldensun",
+            "file": "goldensun.gba"
+        },
+        {
+            "title": "Goomba-v2.2---pokemon-black---special-palace-edition-1-by-mb-hacks-(red-hack)",
+            "file": "Goomba-V2.2---Pokemon-Black---Special-Palace-Edition-1-by-MB-Hacks-(Red-Hack).gba"
+        },
+        {
+            "title": "Gradius Galaxies (usa)",
+            "file": "Gradius_Galaxies_(USA).gba"
+        },
+        {
+            "title": "Gta",
+            "file": "gta.gba"
+        },
+        {
+            "title": "Gunstar Super Heroes",
+            "file": "gunstar_super_heroes.gba"
+        },
+        {
+            "title": "Hamtaro Heartbreak",
+            "file": "hamtaro_heartbreak.gba"
+        },
+        {
+            "title": "Here",
+            "file": "here.png"
+        },
+        {
+            "title": "Hmfmt",
+            "file": "hmfmt.gba"
+        },
+        {
+            "title": "Hmmfmt",
+            "file": "hmmfmt.gba"
+        },
+        {
+            "title": "Iridion",
+            "file": "iridion.gba"
+        },
+        {
+            "title": "Jbn",
+            "file": "jbn.gba"
+        },
+        {
+            "title": "Jca",
+            "file": "jca.gba"
+        },
+        {
+            "title": "Jlc",
+            "file": "jlc.gba"
+        },
+        {
+            "title": "Jlhth",
+            "file": "jlhth.gba"
+        },
+        {
+            "title": "Jlifa",
+            "file": "jlifa.gba"
+        },
+        {
+            "title": "Jp3dna",
+            "file": "jp3dna.gba"
+        },
+        {
+            "title": "Jp3ia",
+            "file": "jp3ia.gba"
+        },
+        {
+            "title": "Jp3pb",
+            "file": "jp3pb.gba"
+        },
+        {
+            "title": "Karnaaj Rally (u)",
+            "file": "Karnaaj_Rally_(U).gba"
+        },
+        {
+            "title": "Khcom",
+            "file": "khcom.gba"
+        },
+        {
+            "title": "King Of Fighters Ex, The Neoblood (u) (v1.1)",
+            "file": "King_of_Fighters_EX,_The__NeoBlood_(U)_(V1.1).gba"
+        },
+        {
+            "title": "King Of Fighters Ex 2 Howling Blood",
+            "file": "King_of_Fighters_EX_2__Howling_Blood.gba"
+        },
+        {
+            "title": "Kirbymirror",
+            "file": "kirbymirror.gba"
+        },
+        {
+            "title": "Kirbynightmare",
+            "file": "kirbynightmare.gba"
+        },
+        {
+            "title": "Klonoa 2 Dream Champ Tournament",
+            "file": "Klonoa_2__Dream_Champ_Tournament.gba"
+        },
+        {
+            "title": "Klonoa Empire Of Dreams",
+            "file": "Klonoa__Empire_of_Dreams.gba"
+        },
+        {
+            "title": "Konami Krazy Racers (europe)",
+            "file": "Konami_Krazy_Racers_(Europe).gba"
+        },
+        {
+            "title": "Kururin Paradise (japan)",
+            "file": "Kururin_Paradise_(Japan).gba"
+        },
+        {
+            "title": "Kuru Kuru Kururin",
+            "file": "Kuru_Kuru_Kururin.gba"
+        },
+        {
+            "title": "Lb",
+            "file": "lb.gba"
+        },
+        {
+            "title": "League-of-legends-2017-09-12",
+            "file": "league-of-legends-2017-09-12.gba"
+        },
+        {
+            "title": "Lego Star Wars 2 The Original Trilogy",
+            "file": "LEGO__Star_Wars_2__the_Original_Trilogy.gba"
+        },
+        {
+            "title": "Lego Star Wars The Video Game",
+            "file": "LEGO__Star_Wars__the_Video_Game.gba"
+        },
+        {
+            "title": "Li2",
+            "file": "li2.gba"
+        },
+        {
+            "title": "Lilo & Stitch",
+            "file": "Lilo_&_Stitch.gba"
+        },
+        {
+            "title": "Lotr2",
+            "file": "lotr2.gba"
+        },
+        {
+            "title": "Lotr3",
+            "file": "lotr3.gba"
+        },
+        {
+            "title": "Lotrtta",
+            "file": "lotrtta.gba"
+        },
+        {
+            "title": "Lr2",
+            "file": "lr2.gba"
+        },
+        {
+            "title": "Lsw",
+            "file": "lsw.gba"
+        },
+        {
+            "title": "Lunar Legend (u) [!]",
+            "file": "Lunar_Legend_(U)_[!].gba"
+        },
+        {
+            "title": "Lyp",
+            "file": "lyp.gba"
+        },
+        {
+            "title": "M3",
+            "file": "m3.gba"
+        },
+        {
+            "title": "Mariokart",
+            "file": "mariokart.gba"
+        },
+        {
+            "title": "Marioland",
+            "file": "marioland.gba"
+        },
+        {
+            "title": "Marioparty",
+            "file": "marioparty.gba"
+        },
+        {
+            "title": "Mariopinball",
+            "file": "mariopinball.gba"
+        },
+        {
+            "title": "Mario And Luigi Superstar Saga",
+            "file": "Mario_and_Luigi__Superstar_Saga.gba"
+        },
+        {
+            "title": "Mario Golf Advance Tour",
+            "file": "Mario_Golf__Advance_Tour.gba"
+        },
+        {
+            "title": "Mario Tennis Power Tour",
+            "file": "Mario_Tennis__Power_Tour.gba"
+        },
+        {
+            "title": "Mario Vs. Donkey Kong",
+            "file": "Mario_vs._Donkey_Kong.gba"
+        },
+        {
+            "title": "Max Payne (usa)",
+            "file": "Max_Payne_(USA).gba"
+        },
+        {
+            "title": "Medal Of Honor Infiltrator (u)",
+            "file": "Medal_of_Honor__Infiltrator_(U).gba"
+        },
+        {
+            "title": "Mega-evolution",
+            "file": "mega-evolution.gba"
+        },
+        {
+            "title": "Mega-man Battle Network",
+            "file": "Mega-Man_Battle_Network.gba"
+        },
+        {
+            "title": "Mega-man Battle Network 2",
+            "file": "Mega-Man_Battle_Network_2.gba"
+        },
+        {
+            "title": "Mega-man Battle Network 3 Blue",
+            "file": "Mega-Man_Battle_Network_3__Blue.gba"
+        },
+        {
+            "title": "Mega-man Battle Network 3 White",
+            "file": "Mega-Man_Battle_Network_3__White.gba"
+        },
+        {
+            "title": "Mega-man Battle Network 4 Blue Moon",
+            "file": "Mega-Man_Battle_Network_4__Blue_Moon.gba"
+        },
+        {
+            "title": "Mega-man Battle Network 4 Red Sun",
+            "file": "Mega-Man_Battle_Network_4__Red_Sun.gba"
+        },
+        {
+            "title": "Mega-man Battle Network 5 Team Colonel",
+            "file": "Mega-Man_Battle_Network_5__Team_Colonel.gba"
+        },
+        {
+            "title": "Mega-man Battle Network 5 Team Proto-man",
+            "file": "Mega-Man_Battle_Network_5__Team_Proto-Man.gba"
+        },
+        {
+            "title": "Mega-man Battle Network 6 Cybeast Falzar",
+            "file": "Mega-Man_Battle_Network_6__Cybeast_Falzar.gba"
+        },
+        {
+            "title": "Mega-man Battle Network 6 Cybeast Gregar",
+            "file": "Mega-Man_Battle_Network_6__Cybeast_Gregar.gba"
+        },
+        {
+            "title": "Megamanbass",
+            "file": "megamanbass.gba"
+        },
+        {
+            "title": "Megaman Battle1",
+            "file": "megaman_battle1.gba"
+        },
+        {
+            "title": "Megaman Battle2",
+            "file": "megaman_battle2.gba"
+        },
+        {
+            "title": "Megaman Battle3 Blue",
+            "file": "megaman_battle3_blue.gba"
+        },
+        {
+            "title": "Megaman Battle4 Blue",
+            "file": "megaman_battle4_blue.gba"
+        },
+        {
+            "title": "Megaman Battle4 Red",
+            "file": "megaman_battle4_red.gba"
+        },
+        {
+            "title": "Megaman Battle5",
+            "file": "megaman_battle5.gba"
+        },
+        {
+            "title": "Megaman Battle6",
+            "file": "megaman_battle6.gba"
+        },
+        {
+            "title": "Megaman Zero1",
+            "file": "megaman_zero1.gba"
+        },
+        {
+            "title": "Megaman Zero2",
+            "file": "megaman_zero2.gba"
+        },
+        {
+            "title": "Megaman Zero3",
+            "file": "megaman_zero3.gba"
+        },
+        {
+            "title": "Megaman Zero4",
+            "file": "megaman_zero4.gba"
+        },
+        {
+            "title": "Metalslug",
+            "file": "metalslug.gba"
+        },
+        {
+            "title": "Metroid Fusion",
+            "file": "metroid_fusion.gba"
+        },
+        {
+            "title": "Momotarou Dentetsu",
+            "file": "momotarou_dentetsu.gba"
+        },
+        {
+            "title": "Monkey Ball Jr.",
+            "file": "Monkey_Ball_Jr..gba"
+        },
+        {
+            "title": "Monopoly",
+            "file": "monopoly.gba"
+        },
+        {
+            "title": "Monster Force",
+            "file": "monster_force.gba"
+        },
+        {
+            "title": "Monster Rancher Advance (usa)",
+            "file": "Monster_Rancher_Advance_(USA).gba"
+        },
+        {
+            "title": "Monster Rancher Advance 2 (usa)",
+            "file": "Monster_Rancher_Advance_2_(USA).gba"
+        },
+        {
+            "title": "Moon-demo",
+            "file": "moon-demo.gba"
+        },
+        {
+            "title": "Mortal Kombat",
+            "file": "mortal_kombat.gba"
+        },
+        {
+            "title": "Mother 3 (japan)",
+            "file": "Mother_3_(Japan).gba"
+        },
+        {
+            "title": "Mother 3 (translated)",
+            "file": "Mother_3_(Translated).gba"
+        },
+        {
+            "title": "Mvsdk",
+            "file": "mvsdk.gba"
+        },
+        {
+            "title": "Mysteryred",
+            "file": "mysteryred.gba"
+        },
+        {
+            "title": "Mzm",
+            "file": "mzm.gba"
+        },
+        {
+            "title": "Nbaj",
+            "file": "nbaj.gba"
+        },
+        {
+            "title": "Nesgh1",
+            "file": "nesgh1.gba"
+        },
+        {
+            "title": "Nfrp",
+            "file": "nfrp.gba"
+        },
+        {
+            "title": "Nfsu",
+            "file": "nfsu.gba"
+        },
+        {
+            "title": "Nfsu2",
+            "file": "nfsu2.gba"
+        },
+        {
+            "title": "Ninja Cop",
+            "file": "Ninja_Cop.gba"
+        },
+        {
+            "title": "Onepiece",
+            "file": "onepiece.gba"
+        },
+        {
+            "title": "Pacman World",
+            "file": "pacman_world.gba"
+        },
+        {
+            "title": "Pacman World2",
+            "file": "pacman_world2.gba"
+        },
+        {
+            "title": "Pmc",
+            "file": "pmc.gba"
+        },
+        {
+            "title": "Pmpa",
+            "file": "pmpa.gba"
+        },
+        {
+            "title": "Pocky & Rocky With Becky",
+            "file": "Pocky_&_Rocky_with_Becky.gba"
+        },
+        {
+            "title": "Pokeland-0-ep-1-v1.1",
+            "file": "pokeland-0-ep-1-v1.1.gba"
+        },
+        {
+            "title": "Pokemal-beta",
+            "file": "pokemal-beta.gba"
+        },
+        {
+            "title": "Pokemblem-2021-10-09",
+            "file": "pokemblem-2021-10-09.gba"
+        },
+        {
+            "title": "Pokemet-v2",
+            "file": "pokemet-v2.gba"
+        },
+        {
+            "title": "Pokemon---liquid-crystal-(v3.3.00512)",
+            "file": "Pokemon---Liquid-Crystal-(v3.3.00512).gba"
+        },
+        {
+            "title": "Pokemon-a-grand-day-out",
+            "file": "Pokemon-A-Grand-Day-Out.gba"
+        },
+        {
+            "title": "Pokemon-adventure---red-chapter-(beta-15-+-expansion-fix)",
+            "file": "Pokemon-Adventure---Red-Chapter-(Beta-15-+-Expansion-Fix).gba"
+        },
+        {
+            "title": "Pokemon-altered-emerald-(v4.1e)",
+            "file": "Pokemon-Altered-Emerald-(v4.1e).gba"
+        },
+        {
+            "title": "Pokemon-radical-red-v3.1",
+            "file": "Pokemon-Radical-Red-v3.1.gba"
+        },
+        {
+            "title": "Pokemon-sors-patched",
+            "file": "Pokemon-Sors-Patched.gba"
+        },
+        {
+            "title": "Pokemon-ultra-shiny-gold-sigma-(hack-v1.3.8)",
+            "file": "Pokemon-Ultra-Shiny-Gold-Sigma-(Hack-v1.3.8).gba"
+        },
+        {
+            "title": "Pokemon-ultra-violet-(1.22)-lsa-(fire-red-hack)",
+            "file": "Pokemon-Ultra-Violet-(1.22)-LSA-(Fire-Red-Hack).gba"
+        },
+        {
+            "title": "Pokemonek",
+            "file": "pokemonek.gba"
+        },
+        {
+            "title": "Pokemonemerald",
+            "file": "pokemonemerald.gba"
+        },
+        {
+            "title": "Pokemonflorasky",
+            "file": "pokemonflorasky.gba"
+        },
+        {
+            "title": "Pokemongb",
+            "file": "pokemongb.gba"
+        },
+        {
+            "title": "Pokemongreen",
+            "file": "pokemongreen.gba"
+        },
+        {
+            "title": "Pokemonlp",
+            "file": "pokemonlp.gba"
+        },
+        {
+            "title": "Pokemonred",
+            "file": "pokemonred.gba"
+        },
+        {
+            "title": "Pokemonruby",
+            "file": "pokemonruby.gba"
+        },
+        {
+            "title": "Pokemonsapphire",
+            "file": "pokemonsapphire.gba"
+        },
+        {
+            "title": "Pokemon Emerald Rogue Ex (v1.2.1)",
+            "file": "Pokemon_Emerald_Rogue_EX_(v1.2.1).gba"
+        },
+        {
+            "title": "Pokemon Fire Red Randomizer Version Demo",
+            "file": "pokemon_fire_red_randomizer_version_demo.gba"
+        },
+        {
+            "title": "Pokes-bizarre-adventure-v1.1-final",
+            "file": "pokes-bizarre-adventure-v1.1-final.gba"
+        },
+        {
+            "title": "Pokewb",
+            "file": "pokewb.gba"
+        },
+        {
+            "title": "Ppf",
+            "file": "ppf.gba"
+        },
+        {
+            "title": "Pprs",
+            "file": "pprs.gba"
+        },
+        {
+            "title": "Prs",
+            "file": "prs.gba"
+        },
+        {
+            "title": "Puyopop",
+            "file": "puyopop.gba"
+        },
+        {
+            "title": "Puyo Pop",
+            "file": "Puyo_Pop.gba"
+        },
+        {
+            "title": "Puzzle Fighter 2 Turbo",
+            "file": "Puzzle_Fighter_2_Turbo.gba"
+        },
+        {
+            "title": "Pvzgba-2020-11-16",
+            "file": "pvzgba-2020-11-16.gba"
+        },
+        {
+            "title": "R3hh",
+            "file": "r3hh.gba"
+        },
+        {
+            "title": "Ra",
+            "file": "ra.gba"
+        },
+        {
+            "title": "Racing Gears Advance (u)",
+            "file": "Racing_Gears_Advance_(U).gba"
+        },
+        {
+            "title": "Ray-man 3 Hoodlum Havoc",
+            "file": "Ray-Man_3__Hoodlum_Havoc.gba"
+        },
+        {
+            "title": "Ray-man Advance",
+            "file": "Ray-Man_Advance.gba"
+        },
+        {
+            "title": "Rhythm Tengoku (japan)",
+            "file": "Rhythm_Tengoku_(Japan).gba"
+        },
+        {
+            "title": "Rsrs",
+            "file": "rsrs.gba"
+        },
+        {
+            "title": "Rtpl",
+            "file": "rtpl.gba"
+        },
+        {
+            "title": "Ruby-destiny-bt-b1",
+            "file": "ruby-destiny-bt-b1.gba"
+        },
+        {
+            "title": "Ruby-destiny-log-2017v1",
+            "file": "ruby-destiny-log-2017v1.gba"
+        },
+        {
+            "title": "Ruby-destiny-rol-2016v4.1",
+            "file": "ruby-destiny-rol-2016v4.1.gba"
+        },
+        {
+            "title": "Ruby-destiny-rol-remake-b1",
+            "file": "ruby-destiny-rol-remake-b1.gba"
+        },
+        {
+            "title": "Ruby-destiny-rr-hrm-2021-07-08",
+            "file": "ruby-destiny-rr-hrm-2021-07-08.gba"
+        },
+        {
+            "title": "Ruby-wonder-guard",
+            "file": "ruby-wonder-guard.gba"
+        },
+        {
+            "title": "Sag",
+            "file": "sag.gba"
+        },
+        {
+            "title": "Sc",
+            "file": "sc.gba"
+        },
+        {
+            "title": "Simpsons",
+            "file": "simpsons.gba"
+        },
+        {
+            "title": "Sims2",
+            "file": "sims2.gba"
+        },
+        {
+            "title": "Sims Bustin Out",
+            "file": "sims_bustin_out.gba"
+        },
+        {
+            "title": "Sirius-2020-09-04",
+            "file": "sirius-2020-09-04.gba"
+        },
+        {
+            "title": "Sma4+",
+            "file": "sma4+.gba"
+        },
+        {
+            "title": "Sonicbattle",
+            "file": "sonicbattle.gba"
+        },
+        {
+            "title": "Sonicpinball",
+            "file": "sonicpinball.gba"
+        },
+        {
+            "title": "Sonic Advance",
+            "file": "sonic_advance.gba"
+        },
+        {
+            "title": "Sonic Advance2",
+            "file": "sonic_advance2.gba"
+        },
+        {
+            "title": "Sonic Advance3",
+            "file": "sonic_advance3.gba"
+        },
+        {
+            "title": "Spider-man Mysterios Menace (u) [!]",
+            "file": "Spider-Man__Mysterios_Menace_(U)_[!].gba"
+        },
+        {
+            "title": "Spyro 3 Attack Of The Rhynocs",
+            "file": "Spyro_3__Attack_of_the_Rhynocs.gba"
+        },
+        {
+            "title": "Spyro Adventure",
+            "file": "spyro_adventure.gba"
+        },
+        {
+            "title": "Spyro Flame",
+            "file": "spyro_flame.gba"
+        },
+        {
+            "title": "Spyro Ice",
+            "file": "spyro_ice.gba"
+        },
+        {
+            "title": "Spyro Orange The Cortex Conspiracy",
+            "file": "Spyro_Orange__the_Cortex_Conspiracy.gba"
+        },
+        {
+            "title": "Sthg",
+            "file": "sthg.gba"
+        },
+        {
+            "title": "Stranded-v0.1.4",
+            "file": "stranded-v0.1.4.gba"
+        },
+        {
+            "title": "Summon Night Swordcraft Story",
+            "file": "Summon_Night__Swordcraft_Story.gba"
+        },
+        {
+            "title": "Summon Night Swordcraft Story 2",
+            "file": "Summon_Night__Swordcraft_Story_2.gba"
+        },
+        {
+            "title": "Supermarioadvance",
+            "file": "supermarioadvance.gba"
+        },
+        {
+            "title": "Supermarioadvance2",
+            "file": "supermarioadvance2.gba"
+        },
+        {
+            "title": "Supermarioadvance3",
+            "file": "supermarioadvance3.gba"
+        },
+        {
+            "title": "Supermarioadvance4",
+            "file": "supermarioadvance4.gba"
+        },
+        {
+            "title": "Supermonkeyballjr",
+            "file": "supermonkeyballjr.gba"
+        },
+        {
+            "title": "Superstar",
+            "file": "superstar.gba"
+        },
+        {
+            "title": "Super Bust-a-move (usa) (en,fr,es)",
+            "file": "Super_Bust-A-Move_(USA)_(En,Fr,Es).gba"
+        },
+        {
+            "title": "Super Dodge Ball Advance (europe)",
+            "file": "Super_Dodge_Ball_Advance_(Europe).gba"
+        },
+        {
+            "title": "Super Ghouls N Ghosts (u)",
+            "file": "Super_Ghouls_N_Ghosts_(U).gba"
+        },
+        {
+            "title": "Super Street Fighter 2 Turbo Revival",
+            "file": "super_street_fighter_2_turbo_revival.gba"
+        },
+        {
+            "title": "Super Street Fighter 3 Alpha",
+            "file": "super_street_fighter_3_alpha.gba"
+        },
+        {
+            "title": "Sword Of Mana (usa, Australia)",
+            "file": "Sword_of_Mana_(USA,_Australia).gba"
+        },
+        {
+            "title": "Tactics Ogre The Knight Of Lodis",
+            "file": "Tactics_Ogre__the_Knight_of_Lodis.gba"
+        },
+        {
+            "title": "Tak2 Staff Of Dreams",
+            "file": "tak2_staff_of_dreams.gba"
+        },
+        {
+            "title": "Tales Of Phantasia",
+            "file": "tales_of_phantasia.gba"
+        },
+        {
+            "title": "Team-training-v8",
+            "file": "team-training-v8.gba"
+        },
+        {
+            "title": "Tekken Advance (u) [!]",
+            "file": "Tekken_Advance_(U)_[!].gba"
+        },
+        {
+            "title": "Tetris Worlds",
+            "file": "tetris_worlds.gba"
+        },
+        {
+            "title": "Tggtc",
+            "file": "tggtc.gba"
+        },
+        {
+            "title": "Tgr",
+            "file": "tgr.gba"
+        },
+        {
+            "title": "Thas",
+            "file": "thas.gba"
+        },
+        {
+            "title": "Thps2",
+            "file": "thps2.gba"
+        },
+        {
+            "title": "Thps3",
+            "file": "thps3.gba"
+        },
+        {
+            "title": "Thps4",
+            "file": "thps4.gba"
+        },
+        {
+            "title": "Thu",
+            "file": "thu.gba"
+        },
+        {
+            "title": "Thu2",
+            "file": "thu2.gba"
+        },
+        {
+            "title": "Tmnt",
+            "file": "tmnt.gba"
+        },
+        {
+            "title": "Tony Hawks Downhill Jam",
+            "file": "Tony_Hawks_Downhill_Jam.gba"
+        },
+        {
+            "title": "Touhou-puppet-play-enhanced-(reloaded-v4.6)",
+            "file": "Touhou-Puppet-Play-Enhanced-(Reloaded-v4.6).gba"
+        },
+        {
+            "title": "Touhou-puppet-play-enhanced-v1.11---original",
+            "file": "Touhou-Puppet-Play-Enhanced-v1.11---Original.gba"
+        },
+        {
+            "title": "Touhou-puppet-play-enhanced-v1.11---renko",
+            "file": "Touhou-Puppet-Play-Enhanced-v1.11---Renko.gba"
+        },
+        {
+            "title": "Touhoumon-purple-(difficulty---hard)",
+            "file": "Touhoumon-Purple-(Difficulty---Hard).gba"
+        },
+        {
+            "title": "Touhoumon-purple-(difficulty---ultimate)",
+            "file": "Touhoumon-Purple-(Difficulty---Ultimate).gba"
+        },
+        {
+            "title": "Touhoumon-purple-(difficulty---very-hard)",
+            "file": "Touhoumon-Purple-(Difficulty---Very-Hard).gba"
+        },
+        {
+            "title": "Touhoumon-purple-(original)",
+            "file": "Touhoumon-Purple-(Original).gba"
+        },
+        {
+            "title": "Touhoumon-purple-(sandbox)",
+            "file": "Touhoumon-Purple-(Sandbox).gba"
+        },
+        {
+            "title": "Turbo-turtle-adventure-(usa)",
+            "file": "Turbo-Turtle-Adventure-(USA).gba"
+        },
+        {
+            "title": "Turok Evolution",
+            "file": "turok_evolution.gba"
+        },
+        {
+            "title": "Twenty50-v0.0.1",
+            "file": "twenty50-v0.0.1.gba"
+        },
+        {
+            "title": "Ty2",
+            "file": "ty2.gba"
+        },
+        {
+            "title": "Ty3",
+            "file": "ty3.gba"
+        },
+        {
+            "title": "Ultimate Brain Games (u)",
+            "file": "Ultimate_Brain_Games_(U).gba"
+        },
+        {
+            "title": "Ultimate Card Games (u)",
+            "file": "Ultimate_Card_Games_(U).gba"
+        },
+        {
+            "title": "Unbound-v2.0.3.2",
+            "file": "unbound-v2.0.3.2.gba"
+        },
+        {
+            "title": "Unsb",
+            "file": "unsb.gba"
+        },
+        {
+            "title": "V-rally 3 (u)",
+            "file": "V-Rally_3_(U).gba"
+        },
+        {
+            "title": "Virtua Tennis (u)",
+            "file": "Virtua_Tennis_(U).gba"
+        },
+        {
+            "title": "Wade Hixtons Counter Punch (usa, Europe)",
+            "file": "Wade_Hixtons_Counter_Punch_(USA,_Europe).gba"
+        },
+        {
+            "title": "Warioland4",
+            "file": "warioland4.gba"
+        },
+        {
+            "title": "Wario Ware",
+            "file": "wario_ware.gba"
+        },
+        {
+            "title": "Ygo-pokeduel-v3.0",
+            "file": "ygo-pokeduel-v3.0.gba"
+        },
+        {
+            "title": "Ynfa",
+            "file": "ynfa.gba"
+        },
+        {
+            "title": "Yu-gi-oh! The Eternal Duelist Soul (u) [!]",
+            "file": "Yu-Gi-Oh!__The_Eternal_Duelist_Soul_(U)_[!].gba"
+        },
+        {
+            "title": "Zelda Minish",
+            "file": "zelda_minish.gba"
+        },
+        {
+            "title": "Zelda Past",
+            "file": "zelda_past.gba"
+        }
+    ]
+}
