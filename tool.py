@@ -21,6 +21,10 @@ def create_index_json(folder, games):
     with open(os.path.join(folder, "index.json"), "w") as index_file:
         json.dump(index_data, index_file, indent=4)
 
+def prompt_for_core(folder):
+    core_prompt = input(f"Enter the core for {folder}: ")
+    return core_prompt
+
 library_name = input("Please enter the library name: ")
 
 input_titles = input("Would you like to manually input the name of each game? (yes/no): ").lower() == 'yes'
@@ -34,15 +38,16 @@ data = {
 
 for folder in folders:
     games = []
+    core = prompt_for_core(folder)
 
     if input_titles:
         games = prompt_for_titles(folder)
     else:
         games = [{"title": get_title_from_filename(filename), "file": filename} for filename in os.listdir(folder) if os.path.isfile(os.path.join(folder, filename))]
 
-    create_index_json(folder, games)
+    create_index_json(folder, games, core)
     
-    data['consoles'].append({"name": folder.upper(), "folder": folder})
+    data['consoles'].append({"name": folder.upper(), "folder": folder, "core": core})
 
 with open("md.json", "w") as json_file:
     json.dump(data, json_file, indent=4)

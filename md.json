@@ -3,31 +3,33 @@
     "consoles": [
         {
             "name": "GB-ALT",
-            "folder": "gb-alt"
+            "folder": "gb-alt",
+            "core": "mgba"
         },
         {
             "name": "GBA-ALT",
-            "folder": "gba-alt"
+            "folder": "gba-alt",
+            "core": "mgba"
         },
         {
             "name": "GBC-ALT",
-            "folder": "gbc-alt"
-        },
-        {
-            "name": "GHPAGES_FILES",
-            "folder": "ghpages_files"
+            "folder": "gbc-alt",
+            "core": "mgba"
         },
         {
             "name": "NES-ALT",
-            "folder": "nes-alt"
+            "folder": "nes-alt",
+            "core": "nes"
         },
         {
             "name": "SEGAMD-ALT",
-            "folder": "segaMD-alt"
+            "folder": "segaMD-alt",
+            "core": "segaMD"
         },
         {
             "name": "SNES-ALT",
-            "folder": "snes-alt"
+            "folder": "snes-alt",
+            "core": "snes"
         }
     ]
 }
